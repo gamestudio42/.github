@@ -84,3 +84,48 @@ Construído à vista, commit por commit. Forka, remixa, publica o teu.
 - [Issues para começar](https://github.com/search?q=org%3Agamestudio42+is%3Aopen+label%3A%22good+first+issue%22&type=issues)
 
 </details>
+
+<details>
+<summary>Español</summary>
+
+**Juegos open source. Un clic para jugar, dos para hacer fork.**
+
+Cada juego es gratis y corre en el navegador. El código es público, licencia MIT.
+Hecho a la vista, commit a commit. Haz fork, remixa, publica el tuyo.
+
+- [Jugar Urbe](https://gamestudio42.github.io/urbe/) — tú pones las condiciones, la ciudad decide el resto.
+- [Jugar MineBoss](https://gamestudio42.github.io/mineboss/) — construye, explora y lucha contra jefes opcionales.
+- [Sitio del estudio](https://gamestudio42.github.io/es/)
+- [Issues para empezar](https://github.com/search?q=org%3Agamestudio42+is%3Aopen+label%3A%22good+first+issue%22&type=issues)
+
+</details>
+
+<details>
+<summary>Français</summary>
+
+**Jeux open source. Un clic pour jouer, deux pour forker.**
+
+Chaque jeu est gratuit et tourne dans le navigateur. Le code est public, licence MIT.
+Construit à vue, commit après commit. Forkez, remixez, publiez le vôtre.
+
+- [Jouer à Urbe](https://gamestudio42.github.io/urbe/) — vous posez les conditions, la ville décide du reste.
+- [Jouer à MineBoss](https://gamestudio42.github.io/mineboss/) — construisez, explorez, affrontez des boss optionnels.
+- [Site du studio](https://gamestudio42.github.io/fr/)
+- [Issues pour commencer](https://github.com/search?q=org%3Agamestudio42+is%3Aopen+label%3A%22good+first+issue%22&type=issues)
+
+</details>
+
+<details>
+<summary>Deutsch</summary>
+
+**Open-Source-Spiele. Ein Klick zum Spielen, zwei zum Forken.**
+
+Jedes Spiel ist kostenlos und läuft im Browser. Der Code ist öffentlich, MIT-Lizenz.
+Offen gebaut, Commit für Commit. Forken, remixen, selbst veröffentlichen.
+
+- [Urbe spielen](https://gamestudio42.github.io/urbe/) — du setzt die Bedingungen, die Stadt entscheidet den Rest.
+- [MineBoss spielen](https://gamestudio42.github.io/mineboss/) — bauen, erkunden, optionale Bosse bekämpfen.
+- [Studio-Seite](https://gamestudio42.github.io/de/)
+- [Issues zum Einstieg](https://github.com/search?q=org%3Agamestudio42+is%3Aopen+label%3A%22good+first+issue%22&type=issues)
+
+</details>
