@@ -59,7 +59,7 @@ A block adventure in the browser. Build, explore, fight optional bosses.
 
 - [good first issues](https://github.com/search?q=org%3Agamestudio42+is%3Aopen+label%3A%22good+first+issue%22&type=issues) across the org
 - [Urbe discussions](https://github.com/gamestudio42/urbe/discussions) · [MineBoss discussions](https://github.com/gamestudio42/mineboss/discussions)
-- Player UI is Brazilian Portuguese. Code and docs are English.
+- Code and docs are English. Urbe's player UI is English, Portuguese, Spanish, French and German.
 
 ## Fork & remix
 
