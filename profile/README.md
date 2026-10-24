@@ -30,27 +30,48 @@
 
 Plan a city, keep the neon alive, follow a wandering spring or build an adventure one block at a time. Pick a world and start playing.
 
+<!-- Shared rows keep screenshots and play links aligned when taglines wrap. -->
 <table>
 <tr>
 <td width="50%" valign="top">
 
 <h3><a href="https://github.com/gamestudio42/urbe">Urbe</a></h3>
 <p><strong>You set the conditions. The city decides the rest.</strong></p>
-<a href="https://gamestudio42.github.io/urbe/">
-  <img src="https://raw.githubusercontent.com/gamestudio42/urbe/main/docs/screenshots/city.jpg" width="440" alt="Urbe gameplay: an isometric city with roads, homes and industry">
-</a>
-<p>Lay roads, zone districts and keep power and water flowing. Watch demand, traffic and disasters shape the city you started.</p>
-<p><a href="https://gamestudio42.github.io/urbe/"><strong>Play Urbe →</strong></a> &nbsp;·&nbsp; <a href="https://github.com/gamestudio42/urbe">Source code</a></p>
 
 </td>
 <td width="50%" valign="top">
 
 <h3><a href="https://github.com/gamestudio42/neo-urbe">Neo Urbe</a></h3>
 <p><strong>Raise a neon skyline. Keep the grid alive.</strong></p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://gamestudio42.github.io/urbe/">
+  <img src="https://raw.githubusercontent.com/gamestudio42/urbe/main/docs/screenshots/city.jpg" width="440" alt="Urbe gameplay: an isometric city with roads, homes and industry">
+</a>
+<p>Lay roads, zone districts and keep power and water flowing. Watch demand, traffic and disasters shape the city you started.</p>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://gamestudio42.github.io/neo-urbe/">
   <img src="https://raw.githubusercontent.com/gamestudio42/neo-urbe/main/docs/screenshots/city.jpg" width="440" alt="Neo Urbe gameplay: neon towers, illuminated roads and a cyberpunk skyline">
 </a>
 <p>Build under pressure from an unstable grid, megacorporations and hackers. Connect the city, grow its skyline and keep its networks running.</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<p><a href="https://gamestudio42.github.io/urbe/"><strong>Play Urbe →</strong></a> &nbsp;·&nbsp; <a href="https://github.com/gamestudio42/urbe">Source code</a></p>
+
+</td>
+<td width="50%" valign="top">
+
 <p><a href="https://gamestudio42.github.io/neo-urbe/"><strong>Play Neo Urbe →</strong></a> &nbsp;·&nbsp; <a href="https://github.com/gamestudio42/neo-urbe">Source code</a></p>
 
 </td>
@@ -60,21 +81,41 @@ Plan a city, keep the neon alive, follow a wandering spring or build an adventur
 
 <h3><a href="https://github.com/gamestudio42/urbe-oasis">Urbe Oasis</a></h3>
 <p><strong>A little water. A whole world.</strong></p>
-<a href="https://gamestudio42.github.io/urbe-oasis/">
-  <img src="https://raw.githubusercontent.com/gamestudio42/urbe-oasis/main/docs/screenshots/city.png" width="440" alt="Urbe Oasis gameplay: an adobe desert city with palms, canals and water infrastructure">
-</a>
-<p>Found an adobe city beside a wandering spring. Bring water and shade to its districts, trade with caravans and adapt to sandstorms.</p>
-<p><a href="https://gamestudio42.github.io/urbe-oasis/"><strong>Enter the oasis →</strong></a> &nbsp;·&nbsp; <a href="https://github.com/gamestudio42/urbe-oasis">Source code</a></p>
 
 </td>
 <td width="50%" valign="top">
 
 <h3><a href="https://github.com/gamestudio42/mineboss">MineBoss</a></h3>
 <p><strong>Build, explore and fight — when you want to.</strong></p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://gamestudio42.github.io/urbe-oasis/">
+  <img src="https://raw.githubusercontent.com/gamestudio42/urbe-oasis/main/docs/screenshots/city.png" width="440" alt="Urbe Oasis gameplay: an adobe desert city with palms, canals and water infrastructure">
+</a>
+<p>Found an adobe city beside a wandering spring. Bring water and shade to its districts, trade with caravans and adapt to sandstorms.</p>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://gamestudio42.github.io/mineboss/">
   <img src="https://raw.githubusercontent.com/gamestudio42/mineboss/master/docs/readme/aventura.png" width="440" alt="MineBoss gameplay: a first-person block adventure with a golden hammer">
 </a>
 <p>Explore a voxel world in Adventure or OneBlock mode. Build freely, craft your next tool and seek out optional bosses when you're ready.</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<p><a href="https://gamestudio42.github.io/urbe-oasis/"><strong>Enter the oasis →</strong></a> &nbsp;·&nbsp; <a href="https://github.com/gamestudio42/urbe-oasis">Source code</a></p>
+
+</td>
+<td width="50%" valign="top">
+
 <p><a href="https://gamestudio42.github.io/mineboss/"><strong>Play MineBoss →</strong></a> &nbsp;·&nbsp; <a href="https://github.com/gamestudio42/mineboss">Source code</a></p>
 
 </td>
