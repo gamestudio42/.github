@@ -1,152 +1,217 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gamestudio42/.github/main/profile/logo-badge.svg" width="88" alt="Game Studio 42">
+  <a href="https://gamestudio42.github.io/">
+    <img src="https://raw.githubusercontent.com/gamestudio42/.github/main/profile/logo-badge.svg" width="100" alt="Game Studio 42">
+  </a>
 </p>
 
 <h1 align="center">Game Studio 42</h1>
 
-<p align="center"><strong>Open-source games. Play in one click. Fork in two.</strong></p>
+<p align="center"><strong>Small studio. Boundless worlds.</strong></p>
 
 <p align="center">
-  Every game is free and runs in the browser.<br>
-  All the code is public under the MIT licence.<br>
-  Built in the open, commit by commit.<br>
-  Fork it, remix it, ship your own.
+  Cities that come alive. Worlds you make your own.<br>
+  Independent browser games for curious players and people who love to build.
 </p>
 
 <p align="center">
-  <a href="https://gamestudio42.github.io/"><img src="https://img.shields.io/badge/Studio_site-33ff66?style=for-the-badge&labelColor=0a0f0a&color=33ff66" alt="Studio site"></a>
+  <a href="https://gamestudio42.github.io/"><img src="https://img.shields.io/badge/Explore_the_games-c2f879?style=for-the-badge&amp;labelColor=101310&amp;color=c2f879" alt="Explore the games on the studio website"></a>
   &nbsp;
-  <a href="https://github.com/search?q=org%3Agamestudio42+is%3Aopen+label%3A%22good+first+issue%22&type=issues"><img src="https://img.shields.io/badge/good_first_issues-1f9d4a?style=for-the-badge&labelColor=0a0f0a&color=1f9d4a" alt="good first issues"></a>
-</p>
-
-## Games
-
-### [Urbe](https://github.com/gamestudio42/urbe)
-
-You set the conditions. The city decides the rest.
-
-<p align="center">
-  <a href="https://gamestudio42.github.io/urbe/"><img src="https://img.shields.io/badge/Play-33ff66?style=for-the-badge&labelColor=0a0f0a&color=33ff66" alt="Play Urbe"></a>
-  <a href="https://github.com/gamestudio42/urbe/stargazers"><img src="https://img.shields.io/github/stars/gamestudio42/urbe?style=for-the-badge&labelColor=0a0f0a&color=33ff66" alt="Stars"></a>
-  <a href="https://github.com/gamestudio42/urbe/fork"><img src="https://img.shields.io/badge/Fork-1f9d4a?style=for-the-badge&labelColor=0a0f0a&color=1f9d4a" alt="Fork"></a>
-  <a href="https://github.com/gamestudio42/urbe/commits/main"><img src="https://img.shields.io/github/last-commit/gamestudio42/urbe?style=for-the-badge&labelColor=0a0f0a&color=1f9d4a" alt="Last commit"></a>
+  <a href="https://github.com/orgs/gamestudio42/repositories"><img src="https://img.shields.io/badge/Explore_the_code-101310?style=for-the-badge&amp;labelColor=101310&amp;color=283322" alt="Explore the studio repositories"></a>
 </p>
 
 <p align="center">
-  <a href="https://gamestudio42.github.io/urbe/">
-    <img src="https://raw.githubusercontent.com/gamestudio42/urbe/main/docs/screenshots/menu.jpg" alt="Urbe — main menu over a living city" width="820">
-  </a>
+  <strong>Free to play · In your browser · Open source</strong><br>
+  <sub><a href="https://gamestudio42.github.io/pt/">Português</a> · <a href="https://gamestudio42.github.io/es/">Español</a> · <a href="https://gamestudio42.github.io/fr/">Français</a> · <a href="https://gamestudio42.github.io/de/">Deutsch</a></sub>
 </p>
 
-### [Neo Urbe](https://github.com/gamestudio42/neo-urbe)
+---
 
-Raise a neon skyline. Keep the grid alive.
+## Find your next world
 
-<p align="center">
-  <a href="https://gamestudio42.github.io/neo-urbe/"><img src="https://img.shields.io/badge/Play-33ff66?style=for-the-badge&labelColor=0a0f0a&color=33ff66" alt="Play Neo Urbe"></a>
-  <a href="https://github.com/gamestudio42/neo-urbe/stargazers"><img src="https://img.shields.io/github/stars/gamestudio42/neo-urbe?style=for-the-badge&labelColor=0a0f0a&color=33ff66" alt="Stars"></a>
-  <a href="https://github.com/gamestudio42/neo-urbe/fork"><img src="https://img.shields.io/badge/Fork-1f9d4a?style=for-the-badge&labelColor=0a0f0a&color=1f9d4a" alt="Fork"></a>
-  <a href="https://github.com/gamestudio42/neo-urbe/commits/main"><img src="https://img.shields.io/github/last-commit/gamestudio42/neo-urbe?style=for-the-badge&labelColor=0a0f0a&color=1f9d4a" alt="Last commit"></a>
-</p>
+Plan a city, keep the neon alive, follow a wandering spring or build an adventure one block at a time. Pick a world and start playing.
 
-<p align="center">
-  <a href="https://gamestudio42.github.io/neo-urbe/">
-    <img src="https://raw.githubusercontent.com/gamestudio42/neo-urbe/main/docs/screenshots/menu.jpg" alt="Neo Urbe — main menu over a neon city" width="820">
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### [MineBoss](https://github.com/gamestudio42/mineboss)
+<h3><a href="https://github.com/gamestudio42/urbe">Urbe</a></h3>
+<p><strong>You set the conditions. The city decides the rest.</strong></p>
+<a href="https://gamestudio42.github.io/urbe/">
+  <img src="https://raw.githubusercontent.com/gamestudio42/urbe/main/docs/screenshots/city.jpg" width="440" alt="Urbe gameplay: an isometric city with roads, homes and industry">
+</a>
+<p>Lay roads, zone districts and keep power and water flowing. Watch demand, traffic and disasters shape the city you started.</p>
+<p><a href="https://gamestudio42.github.io/urbe/"><strong>Play Urbe →</strong></a> &nbsp;·&nbsp; <a href="https://github.com/gamestudio42/urbe">Source code</a></p>
 
-A block adventure in the browser. Build, explore, fight optional bosses.
+</td>
+<td width="50%" valign="top">
 
-<p align="center">
-  <a href="https://gamestudio42.github.io/mineboss/"><img src="https://img.shields.io/badge/Play-33ff66?style=for-the-badge&labelColor=0a0f0a&color=33ff66" alt="Play MineBoss"></a>
-  <a href="https://github.com/gamestudio42/mineboss/stargazers"><img src="https://img.shields.io/github/stars/gamestudio42/mineboss?style=for-the-badge&labelColor=0a0f0a&color=33ff66" alt="Stars"></a>
-  <a href="https://github.com/gamestudio42/mineboss/fork"><img src="https://img.shields.io/badge/Fork-1f9d4a?style=for-the-badge&labelColor=0a0f0a&color=1f9d4a" alt="Fork"></a>
-  <a href="https://github.com/gamestudio42/mineboss/commits/master"><img src="https://img.shields.io/github/last-commit/gamestudio42/mineboss?style=for-the-badge&labelColor=0a0f0a&color=1f9d4a" alt="Last commit"></a>
-</p>
+<h3><a href="https://github.com/gamestudio42/neo-urbe">Neo Urbe</a></h3>
+<p><strong>Raise a neon skyline. Keep the grid alive.</strong></p>
+<a href="https://gamestudio42.github.io/neo-urbe/">
+  <img src="https://raw.githubusercontent.com/gamestudio42/neo-urbe/main/docs/screenshots/city.jpg" width="440" alt="Neo Urbe gameplay: neon towers, illuminated roads and a cyberpunk skyline">
+</a>
+<p>Build under pressure from an unstable grid, megacorporations and hackers. Connect the city, grow its skyline and keep its networks running.</p>
+<p><a href="https://gamestudio42.github.io/neo-urbe/"><strong>Play Neo Urbe →</strong></a> &nbsp;·&nbsp; <a href="https://github.com/gamestudio42/neo-urbe">Source code</a></p>
 
-<p align="center">
-  <a href="https://gamestudio42.github.io/mineboss/">
-    <img src="https://raw.githubusercontent.com/gamestudio42/mineboss/master/docs/readme/aventura.png" alt="MineBoss — first-person adventure" width="820">
-  </a>
-</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## Contribute
+<h3><a href="https://github.com/gamestudio42/urbe-oasis">Urbe Oasis</a></h3>
+<p><strong>A little water. A whole world.</strong></p>
+<a href="https://gamestudio42.github.io/urbe-oasis/">
+  <img src="https://raw.githubusercontent.com/gamestudio42/urbe-oasis/main/docs/screenshots/city.png" width="440" alt="Urbe Oasis gameplay: an adobe desert city with palms, canals and water infrastructure">
+</a>
+<p>Found an adobe city beside a wandering spring. Bring water and shade to its districts, trade with caravans and adapt to sandstorms.</p>
+<p><a href="https://gamestudio42.github.io/urbe-oasis/"><strong>Enter the oasis →</strong></a> &nbsp;·&nbsp; <a href="https://github.com/gamestudio42/urbe-oasis">Source code</a></p>
 
-- [good first issues](https://github.com/search?q=org%3Agamestudio42+is%3Aopen+label%3A%22good+first+issue%22&type=issues) across the org
-- [Urbe discussions](https://github.com/gamestudio42/urbe/discussions) · [MineBoss discussions](https://github.com/gamestudio42/mineboss/discussions)
-- Code and docs are English. Urbe and Neo Urbe's player UI is English, Portuguese, Spanish, French and German.
+</td>
+<td width="50%" valign="top">
 
-## Fork & remix
+<h3><a href="https://github.com/gamestudio42/mineboss">MineBoss</a></h3>
+<p><strong>Build, explore and fight — when you want to.</strong></p>
+<a href="https://gamestudio42.github.io/mineboss/">
+  <img src="https://raw.githubusercontent.com/gamestudio42/mineboss/master/docs/readme/aventura.png" width="440" alt="MineBoss gameplay: a first-person block adventure with a golden hammer">
+</a>
+<p>Explore a voxel world in Adventure or OneBlock mode. Build freely, craft your next tool and seek out optional bosses when you're ready.</p>
+<p><a href="https://gamestudio42.github.io/mineboss/"><strong>Play MineBoss →</strong></a> &nbsp;·&nbsp; <a href="https://github.com/gamestudio42/mineboss">Source code</a></p>
+
+</td>
+</tr>
+</table>
+
+<sub>Real gameplay from the projects. Urbe, Neo Urbe and Urbe Oasis support English, Portuguese, Spanish, French and German. MineBoss currently has a Portuguese player interface.</sub>
+
+### More room to experiment: Plot 42
+
+[**Plot 42**](https://github.com/gamestudio42/plot42) is the studio's collection of small browser games:
+
+- **Horta** — plant, wait and harvest on a small isometric plot.
+- **Posto** — command three units in turn-based combat on a compact board.
+- **Mata** — restore a landscape before drought takes over.
+
+Its lobby also connects you to the standalone Urbe and Neo Urbe sites.
+
+[**Explore Plot 42 →**](https://gamestudio42.github.io/plot42/) · [Source code](https://github.com/gamestudio42/plot42)
+
+---
+
+## Made to play. Open to possibility.
+
+We build games around systems you can explore: a growing city, a fragile water supply, a world made of blocks. The same curiosity that makes them fun to play makes them interesting to take apart.
+
+- **Start with a browser tab.** The featured games are free to play, with no installation required.
+- **Look inside.** Their source is public and MIT-licensed. Read how a mechanic works, change the rules or build your own variation.
+- **Build in the open.** Follow commits, report what you find and help shape the next change.
+
+The featured projects use **TypeScript**, with **PixiJS** for the isometric games and **Three.js** for MineBoss. The Urbe city simulations run in a **Web Worker**, keeping simulation work separate from the interface.
+
+## Play it. Fork it. Make it yours.
+
+A good contribution can start with a play session, a clear bug report, a translation, a better sprite or a change to the simulation.
+
+1. **Pick a project.** Use its README for setup instructions, controls and development commands.
+2. **Find something worth improving.** Browse [open issues](https://github.com/search?q=org%3Agamestudio42+is%3Aissue+is%3Aopen&amp;type=issues) or look for [good first issues](https://github.com/search?q=org%3Agamestudio42+is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22&amp;type=issues). For a larger change, discuss the idea in that project's issues first.
+3. **Make it easy to review.** Describe the change, include reproduction steps or screenshots where useful, and run the checks documented by the project.
+
+To explore **Urbe** locally, with Git, Node.js and pnpm installed:
 
 ```sh
 git clone https://github.com/gamestudio42/urbe.git
-cd urbe && pnpm install && pnpm dev
+cd urbe
+pnpm install
+pnpm dev
 ```
 
-Enable GitHub Pages on your fork. The studio site explains the rest: [gamestudio42.github.io](https://gamestudio42.github.io/).
+See [Urbe's development guide](https://github.com/gamestudio42/urbe#develop) for setup and checks. Each project documents its own runtime requirements and deployment steps. If you publish a fork, retain the required license notices and review the project's asset licenses.
+
+**Prefer to play?** Useful feedback matters too. Tell us what you tried, what happened and what you expected. Include your browser, game mode and reproduction steps when reporting a bug.
+
+---
+
+## Around the studio
+
+[Studio website](https://gamestudio42.github.io/) · [All repositories](https://github.com/orgs/gamestudio42/repositories) · [Open issues](https://github.com/search?q=org%3Agamestudio42+is%3Aissue+is%3Aopen&amp;type=issues)
+
+Star the projects you enjoy, follow their commits and come back to see what grows next.
 
 <details>
-<summary>Português</summary>
+<summary><strong>Português — Um estúdio. Mundos sem fim.</strong></summary>
 
-**Jogos open source. Um clique para jogar, dois para forkar.**
+Criamos jogos independentes e de código aberto para mentes curiosas. Jogue de graça no navegador, descubra como tudo funciona e crie com a gente.
 
-Todo jogo é grátis e roda no navegador. O código é público, licença MIT.
-Construído à vista, commit por commit. Forka, remixa, publica o teu.
+- [**Urbe**](https://gamestudio42.github.io/urbe/) — você cria as condições; a cidade decide o resto.
+- [**Neo Urbe**](https://gamestudio42.github.io/neo-urbe/) — erga um horizonte de neon e mantenha as redes da cidade vivas.
+- [**Urbe Oasis**](https://gamestudio42.github.io/urbe-oasis/) — água, sombra e caravanas sustentam sua cidade de adobe no deserto.
+- [**MineBoss**](https://gamestudio42.github.io/mineboss/) — construa, explore e enfrente chefões opcionais em Aventura ou OneBlock.
+- [**Plot 42**](https://gamestudio42.github.io/plot42/) — experimente Horta, Posto e Mata e encontre os links para Urbe e Neo Urbe.
 
-- [Jogar Urbe](https://gamestudio42.github.io/urbe/) — você cria as condições, a cidade decide o resto.
-- [Jogar Neo Urbe](https://gamestudio42.github.io/neo-urbe/) — erga um horizonte de neon e mantenha a rede viva.
-- [Jogar MineBoss](https://gamestudio42.github.io/mineboss/) — construa, explore e lute com chefões opcionais.
-- [Site do estúdio](https://gamestudio42.github.io/pt/)
-- [Issues para começar](https://github.com/search?q=org%3Agamestudio42+is%3Aopen+label%3A%22good+first+issue%22&type=issues)
+Os três jogos Urbe oferecem cinco idiomas. MineBoss tem interface em português. Os projetos apresentados usam licença MIT; consulte os detalhes em cada repositório.
+
+Contribua com código, arte, traduções, documentação ou relatos de problemas. Leia o README do projeto escolhido e procure uma issue para começar.
+
+[**Conheça o estúdio →**](https://gamestudio42.github.io/pt/) · [Issues para começar](https://github.com/search?q=org%3Agamestudio42+is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22&amp;type=issues)
 
 </details>
 
 <details>
-<summary>Español</summary>
+<summary><strong>Español — Un estudio. Mundos sin fin.</strong></summary>
 
-**Juegos open source. Un clic para jugar, dos para hacer fork.**
+Creamos juegos independientes y de código abierto para mentes curiosas. Juega gratis en el navegador, descubre cómo funcionan y crea con nosotros.
 
-Cada juego es gratis y corre en el navegador. El código es público, licencia MIT.
-Hecho a la vista, commit a commit. Haz fork, remixa, publica el tuyo.
+- [**Urbe**](https://gamestudio42.github.io/urbe/) — tú pones las condiciones; la ciudad decide el resto.
+- [**Neo Urbe**](https://gamestudio42.github.io/neo-urbe/) — levanta un horizonte de neón y mantén vivas sus redes.
+- [**Urbe Oasis**](https://gamestudio42.github.io/urbe-oasis/) — agua, sombra y caravanas sostienen tu ciudad de adobe en el desierto.
+- [**MineBoss**](https://gamestudio42.github.io/mineboss/) — construye, explora y busca jefes opcionales en Aventura o OneBlock.
+- [**Plot 42**](https://gamestudio42.github.io/plot42/) — descubre Horta, Posto y Mata, con enlaces a Urbe y Neo Urbe.
 
-- [Jugar Urbe](https://gamestudio42.github.io/urbe/) — tú pones las condiciones, la ciudad decide el resto.
-- [Jugar Neo Urbe](https://gamestudio42.github.io/neo-urbe/) — levanta un horizonte de neón y mantén viva la red.
-- [Jugar MineBoss](https://gamestudio42.github.io/mineboss/) — construye, explora y lucha contra jefes opcionales.
-- [Sitio del estudio](https://gamestudio42.github.io/es/)
-- [Issues para empezar](https://github.com/search?q=org%3Agamestudio42+is%3Aopen+label%3A%22good+first+issue%22&type=issues)
+Los tres juegos Urbe ofrecen cinco idiomas. La interfaz de MineBoss está en portugués. Los proyectos presentados usan la licencia MIT; consulta los detalles en cada repositorio.
 
-</details>
+Puedes contribuir con código, arte, traducciones, documentación o informes de errores. Empieza por el README y las issues del proyecto elegido.
 
-<details>
-<summary>Français</summary>
-
-**Jeux open source. Un clic pour jouer, deux pour forker.**
-
-Chaque jeu est gratuit et tourne dans le navigateur. Le code est public, licence MIT.
-Construit à vue, commit après commit. Forkez, remixez, publiez le vôtre.
-
-- [Jouer à Urbe](https://gamestudio42.github.io/urbe/) — vous posez les conditions, la ville décide du reste.
-- [Jouer à Neo Urbe](https://gamestudio42.github.io/neo-urbe/) — dressez un horizon néon et gardez le réseau en vie.
-- [Jouer à MineBoss](https://gamestudio42.github.io/mineboss/) — construisez, explorez, affrontez des boss optionnels.
-- [Site du studio](https://gamestudio42.github.io/fr/)
-- [Issues pour commencer](https://github.com/search?q=org%3Agamestudio42+is%3Aopen+label%3A%22good+first+issue%22&type=issues)
+[**Conoce el estudio →**](https://gamestudio42.github.io/es/) · [Issues para empezar](https://github.com/search?q=org%3Agamestudio42+is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22&amp;type=issues)
 
 </details>
 
 <details>
-<summary>Deutsch</summary>
+<summary><strong>Français — Un studio. Des mondes sans fin.</strong></summary>
 
-**Open-Source-Spiele. Ein Klick zum Spielen, zwei zum Forken.**
+Nous créons des jeux indépendants et open source pour les esprits curieux. Jouez gratuitement dans votre navigateur, découvrez leur fonctionnement et créez avec nous.
 
-Jedes Spiel ist kostenlos und läuft im Browser. Der Code ist öffentlich, MIT-Lizenz.
-Offen gebaut, Commit für Commit. Forken, remixen, selbst veröffentlichen.
+- [**Urbe**](https://gamestudio42.github.io/urbe/) — vous posez les conditions ; la ville décide du reste.
+- [**Neo Urbe**](https://gamestudio42.github.io/neo-urbe/) — bâtissez un horizon néon et gardez ses réseaux en vie.
+- [**Urbe Oasis**](https://gamestudio42.github.io/urbe-oasis/) — eau, ombre et caravanes font vivre votre ville en adobe dans le désert.
+- [**MineBoss**](https://gamestudio42.github.io/mineboss/) — construisez, explorez et affrontez des boss optionnels en Aventure ou OneBlock.
+- [**Plot 42**](https://gamestudio42.github.io/plot42/) — découvrez Horta, Posto et Mata, ainsi que les liens vers Urbe et Neo Urbe.
 
-- [Urbe spielen](https://gamestudio42.github.io/urbe/) — du setzt die Bedingungen, die Stadt entscheidet den Rest.
-- [Neo Urbe spielen](https://gamestudio42.github.io/neo-urbe/) — errichte eine Neon-Skyline und halt das Netz am Leben.
-- [MineBoss spielen](https://gamestudio42.github.io/mineboss/) — bauen, erkunden, optionale Bosse bekämpfen.
-- [Studio-Seite](https://gamestudio42.github.io/de/)
-- [Issues zum Einstieg](https://github.com/search?q=org%3Agamestudio42+is%3Aopen+label%3A%22good+first+issue%22&type=issues)
+Les trois jeux Urbe proposent cinq langues. L'interface de MineBoss est en portugais. Les projets présentés sont sous licence MIT ; consultez les détails dans chaque dépôt.
+
+Contribuez au code, aux illustrations, aux traductions, à la documentation ou aux rapports de bugs. Commencez par le README et les issues du projet choisi.
+
+[**Découvrez le studio →**](https://gamestudio42.github.io/fr/) · [Issues pour commencer](https://github.com/search?q=org%3Agamestudio42+is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22&amp;type=issues)
 
 </details>
+
+<details>
+<summary><strong>Deutsch — Ein Studio. Grenzenlose Welten.</strong></summary>
+
+Wir entwickeln unabhängige Open-Source-Spiele für neugierige Menschen. Spiele kostenlos im Browser, entdecke den Code und entwickle mit uns.
+
+- [**Urbe**](https://gamestudio42.github.io/urbe/) — du setzt die Bedingungen; die Stadt entscheidet den Rest.
+- [**Neo Urbe**](https://gamestudio42.github.io/neo-urbe/) — baue eine Neon-Skyline und halte ihre Netze am Leben.
+- [**Urbe Oasis**](https://gamestudio42.github.io/urbe-oasis/) — Wasser, Schatten und Karawanen versorgen deine Lehmziegelstadt in der Wüste.
+- [**MineBoss**](https://gamestudio42.github.io/mineboss/) — baue, erkunde und stelle dich optionalen Bossen in Abenteuer oder OneBlock.
+- [**Plot 42**](https://gamestudio42.github.io/plot42/) — entdecke Horta, Posto und Mata sowie die Links zu Urbe und Neo Urbe.
+
+Die drei Urbe-Spiele bieten fünf Sprachen. Die Oberfläche von MineBoss ist auf Portugiesisch. Die vorgestellten Projekte stehen unter der MIT-Lizenz; Details findest du im jeweiligen Repository.
+
+Hilf mit Code, Grafik, Übersetzungen, Dokumentation oder Fehlerberichten. Beginne mit der README und den Issues des gewählten Projekts.
+
+[**Entdecke das Studio →**](https://gamestudio42.github.io/de/) · [Issues zum Einstieg](https://github.com/search?q=org%3Agamestudio42+is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22&amp;type=issues)
+
+</details>
+
+---
+
+<p align="center"><strong>Come for a game. Stay to see how it works.</strong><br><sub>Game Studio 42 · Independent games. Shared possibilities.</sub></p>
