@@ -72,7 +72,7 @@ Portuguese and English interface. Four campaign missions and the Porto Velário 
 <td width="50%" valign="top">
 
 <a href="https://gamestudio42.github.io/neo-urbe/">
-  <img src="https://raw.githubusercontent.com/gamestudio42/neo-urbe/main/docs/screenshots/city.jpg" width="440" alt="Neo Urbe gameplay: neon towers, illuminated roads and a cyberpunk skyline">
+  <img src="https://raw.githubusercontent.com/gamestudio42/.github/main/profile/screenshots/neo-urbe.jpg" width="440" alt="Neo Urbe gameplay: neon towers, illuminated roads and a cyberpunk skyline">
 </a>
 <p>Build under pressure from an unstable grid, megacorporations and hackers. Connect the city, grow its skyline and keep its networks running.</p>
 
@@ -108,7 +108,7 @@ Portuguese and English interface. Four campaign missions and the Porto Velário 
 <td width="50%" valign="top">
 
 <a href="https://gamestudio42.github.io/urbe/">
-  <img src="https://raw.githubusercontent.com/gamestudio42/urbe/main/docs/screenshots/city.jpg" width="440" alt="Urbe gameplay: an isometric city with roads, homes and industry">
+  <img src="https://raw.githubusercontent.com/gamestudio42/.github/main/profile/screenshots/urbe.jpg" width="440" alt="Urbe gameplay: an isometric city with roads, homes and industry">
 </a>
 <p>Lay roads, zone districts and keep power and water flowing. Watch demand, traffic and disasters shape the city you started.</p>
 
