@@ -49,58 +49,14 @@ Portuguese and English interface. Four campaign missions and the Porto Velário 
 <tr>
 <td width="50%" valign="top">
 
-<h3><a href="https://github.com/gamestudio42/urbe">Urbe</a></h3>
-<p><strong>You set the conditions. The city decides the rest.</strong></p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3><a href="https://github.com/gamestudio42/neo-urbe">Neo Urbe</a></h3>
-<p><strong>Raise a neon skyline. Keep the grid alive.</strong></p>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://gamestudio42.github.io/urbe/">
-  <img src="https://raw.githubusercontent.com/gamestudio42/urbe/main/docs/screenshots/city.jpg" width="440" alt="Urbe gameplay: an isometric city with roads, homes and industry">
-</a>
-<p>Lay roads, zone districts and keep power and water flowing. Watch demand, traffic and disasters shape the city you started.</p>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://gamestudio42.github.io/neo-urbe/">
-  <img src="https://raw.githubusercontent.com/gamestudio42/neo-urbe/main/docs/screenshots/city.jpg" width="440" alt="Neo Urbe gameplay: neon towers, illuminated roads and a cyberpunk skyline">
-</a>
-<p>Build under pressure from an unstable grid, megacorporations and hackers. Connect the city, grow its skyline and keep its networks running.</p>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<p><a href="https://gamestudio42.github.io/urbe/"><strong>Play Urbe →</strong></a> &nbsp;·&nbsp; <a href="https://github.com/gamestudio42/urbe">Source code</a></p>
-
-</td>
-<td width="50%" valign="top">
-
-<p><a href="https://gamestudio42.github.io/neo-urbe/"><strong>Play Neo Urbe →</strong></a> &nbsp;·&nbsp; <a href="https://github.com/gamestudio42/neo-urbe">Source code</a></p>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 <h3><a href="https://github.com/gamestudio42/urbe-oasis">Urbe Oasis</a></h3>
 <p><strong>A little water. A whole world.</strong></p>
 
 </td>
 <td width="50%" valign="top">
 
-<h3><a href="https://github.com/gamestudio42/mineboss">MineBoss</a></h3>
-<p><strong>Build, explore and fight — when you want to.</strong></p>
+<h3><a href="https://github.com/gamestudio42/neo-urbe">Neo Urbe</a></h3>
+<p><strong>Raise a neon skyline. Keep the grid alive.</strong></p>
 
 </td>
 </tr>
@@ -115,6 +71,50 @@ Portuguese and English interface. Four campaign missions and the Porto Velário 
 </td>
 <td width="50%" valign="top">
 
+<a href="https://gamestudio42.github.io/neo-urbe/">
+  <img src="https://raw.githubusercontent.com/gamestudio42/neo-urbe/main/docs/screenshots/city.jpg" width="440" alt="Neo Urbe gameplay: neon towers, illuminated roads and a cyberpunk skyline">
+</a>
+<p>Build under pressure from an unstable grid, megacorporations and hackers. Connect the city, grow its skyline and keep its networks running.</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<p><a href="https://gamestudio42.github.io/urbe-oasis/"><strong>Enter the oasis →</strong></a> &nbsp;·&nbsp; <a href="https://github.com/gamestudio42/urbe-oasis">Source code</a></p>
+
+</td>
+<td width="50%" valign="top">
+
+<p><a href="https://gamestudio42.github.io/neo-urbe/"><strong>Play Neo Urbe →</strong></a> &nbsp;·&nbsp; <a href="https://github.com/gamestudio42/neo-urbe">Source code</a></p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3><a href="https://github.com/gamestudio42/urbe">Urbe</a></h3>
+<p><strong>You set the conditions. The city decides the rest.</strong></p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3><a href="https://github.com/gamestudio42/mineboss">MineBoss</a></h3>
+<p><strong>Build, explore and fight — when you want to.</strong></p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://gamestudio42.github.io/urbe/">
+  <img src="https://raw.githubusercontent.com/gamestudio42/urbe/main/docs/screenshots/city.jpg" width="440" alt="Urbe gameplay: an isometric city with roads, homes and industry">
+</a>
+<p>Lay roads, zone districts and keep power and water flowing. Watch demand, traffic and disasters shape the city you started.</p>
+
+</td>
+<td width="50%" valign="top">
+
 <a href="https://gamestudio42.github.io/mineboss/">
   <img src="https://raw.githubusercontent.com/gamestudio42/mineboss/master/docs/readme/aventura.png" width="440" alt="MineBoss gameplay: a first-person block adventure with a golden hammer">
 </a>
@@ -125,7 +125,7 @@ Portuguese and English interface. Four campaign missions and the Porto Velário 
 <tr>
 <td width="50%" valign="top">
 
-<p><a href="https://gamestudio42.github.io/urbe-oasis/"><strong>Enter the oasis →</strong></a> &nbsp;·&nbsp; <a href="https://github.com/gamestudio42/urbe-oasis">Source code</a></p>
+<p><a href="https://gamestudio42.github.io/urbe/"><strong>Play Urbe →</strong></a> &nbsp;·&nbsp; <a href="https://github.com/gamestudio42/urbe">Source code</a></p>
 
 </td>
 <td width="50%" valign="top">
@@ -197,9 +197,9 @@ Star the projects you enjoy, follow their commits and come back to see what grow
 Criamos jogos independentes e de código aberto para mentes curiosas. Jogue de graça no navegador, descubra como tudo funciona e crie com a gente.
 
 - [**Vazante**](https://gamestudio42.github.io/vazante/) — comande esquadrões, mantenha as rotas de suprimentos e defenda Porto Velário contra a horda. Interface em português e inglês.
-- [**Urbe**](https://gamestudio42.github.io/urbe/) — você cria as condições; a cidade decide o resto.
-- [**Neo Urbe**](https://gamestudio42.github.io/neo-urbe/) — erga um horizonte de neon e mantenha as redes da cidade vivas.
 - [**Urbe Oasis**](https://gamestudio42.github.io/urbe-oasis/) — água, sombra e caravanas sustentam sua cidade de adobe no deserto.
+- [**Neo Urbe**](https://gamestudio42.github.io/neo-urbe/) — erga um horizonte de neon e mantenha as redes da cidade vivas.
+- [**Urbe**](https://gamestudio42.github.io/urbe/) — você cria as condições; a cidade decide o resto.
 - [**MineBoss**](https://gamestudio42.github.io/mineboss/) — construa, explore e enfrente chefões opcionais em Aventura ou OneBlock.
 - [**Plot 42**](https://gamestudio42.github.io/plot42/) — experimente Horta, Posto e Mata e encontre os links para Urbe e Neo Urbe.
 
@@ -217,9 +217,9 @@ Contribua com código, arte, traduções, documentação ou relatos de problemas
 Creamos juegos independientes y de código abierto para mentes curiosas. Juega gratis en el navegador, descubre cómo funcionan y crea con nosotros.
 
 - [**Vazante**](https://gamestudio42.github.io/vazante/) — dirige escuadrones, mantén las rutas de suministro y defiende Porto Velário de la horda. Interfaz en portugués e inglés.
-- [**Urbe**](https://gamestudio42.github.io/urbe/) — tú pones las condiciones; la ciudad decide el resto.
-- [**Neo Urbe**](https://gamestudio42.github.io/neo-urbe/) — levanta un horizonte de neón y mantén vivas sus redes.
 - [**Urbe Oasis**](https://gamestudio42.github.io/urbe-oasis/) — agua, sombra y caravanas sostienen tu ciudad de adobe en el desierto.
+- [**Neo Urbe**](https://gamestudio42.github.io/neo-urbe/) — levanta un horizonte de neón y mantén vivas sus redes.
+- [**Urbe**](https://gamestudio42.github.io/urbe/) — tú pones las condiciones; la ciudad decide el resto.
 - [**MineBoss**](https://gamestudio42.github.io/mineboss/) — construye, explora y busca jefes opcionales en Aventura o OneBlock.
 - [**Plot 42**](https://gamestudio42.github.io/plot42/) — descubre Horta, Posto y Mata, con enlaces a Urbe y Neo Urbe.
 
@@ -237,9 +237,9 @@ Puedes contribuir con código, arte, traducciones, documentación o informes de 
 Nous créons des jeux indépendants et open source pour les esprits curieux. Jouez gratuitement dans votre navigateur, découvrez leur fonctionnement et créez avec nous.
 
 - [**Vazante**](https://gamestudio42.github.io/vazante/) — commandez des escouades, maintenez le ravitaillement et défendez Porto Velário contre la horde. Interface en portugais et en anglais.
-- [**Urbe**](https://gamestudio42.github.io/urbe/) — vous posez les conditions ; la ville décide du reste.
-- [**Neo Urbe**](https://gamestudio42.github.io/neo-urbe/) — bâtissez un horizon néon et gardez ses réseaux en vie.
 - [**Urbe Oasis**](https://gamestudio42.github.io/urbe-oasis/) — eau, ombre et caravanes font vivre votre ville en adobe dans le désert.
+- [**Neo Urbe**](https://gamestudio42.github.io/neo-urbe/) — bâtissez un horizon néon et gardez ses réseaux en vie.
+- [**Urbe**](https://gamestudio42.github.io/urbe/) — vous posez les conditions ; la ville décide du reste.
 - [**MineBoss**](https://gamestudio42.github.io/mineboss/) — construisez, explorez et affrontez des boss optionnels en Aventure ou OneBlock.
 - [**Plot 42**](https://gamestudio42.github.io/plot42/) — découvrez Horta, Posto et Mata, ainsi que les liens vers Urbe et Neo Urbe.
 
@@ -257,9 +257,9 @@ Contribuez au code, aux illustrations, aux traductions, à la documentation ou a
 Wir entwickeln unabhängige Open-Source-Spiele für neugierige Menschen. Spiele kostenlos im Browser, entdecke den Code und entwickle mit uns.
 
 - [**Vazante**](https://gamestudio42.github.io/vazante/) — befehle deinen Trupps, sichere die Versorgung und verteidige Porto Velário gegen die Horde. Oberfläche auf Portugiesisch und Englisch.
-- [**Urbe**](https://gamestudio42.github.io/urbe/) — du setzt die Bedingungen; die Stadt entscheidet den Rest.
-- [**Neo Urbe**](https://gamestudio42.github.io/neo-urbe/) — baue eine Neon-Skyline und halte ihre Netze am Leben.
 - [**Urbe Oasis**](https://gamestudio42.github.io/urbe-oasis/) — Wasser, Schatten und Karawanen versorgen deine Lehmziegelstadt in der Wüste.
+- [**Neo Urbe**](https://gamestudio42.github.io/neo-urbe/) — baue eine Neon-Skyline und halte ihre Netze am Leben.
+- [**Urbe**](https://gamestudio42.github.io/urbe/) — du setzt die Bedingungen; die Stadt entscheidet den Rest.
 - [**MineBoss**](https://gamestudio42.github.io/mineboss/) — baue, erkunde und stelle dich optionalen Bossen in Abenteuer oder OneBlock.
 - [**Plot 42**](https://gamestudio42.github.io/plot42/) — entdecke Horta, Posto und Mata sowie die Links zu Urbe und Neo Urbe.
 
