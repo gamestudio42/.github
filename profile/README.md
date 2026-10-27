@@ -28,7 +28,21 @@
 
 ## Find your next world
 
-Plan a city, keep the neon alive, follow a wandering spring or build an adventure one block at a time. Pick a world and start playing.
+Hold a city against the horde, plan a new district, keep the neon alive, follow a wandering spring or build an adventure one block at a time. Pick a world and start playing.
+
+### Vazante — Hold the city. Take the rifle.
+
+Command squads through Porto Velário, keep supply trucks moving and fortify your base against the infected. Switch from tactical command to direct third-person control of a soldier without leaving the battle.
+
+<a href="https://gamestudio42.github.io/vazante/">
+  <img src="https://raw.githubusercontent.com/gamestudio42/vazante/main/docs/screenshots/battle.jpg" width="920" alt="Vazante gameplay: two squads defend a crossroads against a horde, with objectives, supply trucks and a tactical minimap">
+</a>
+
+**Real-time tactics · Supply routes & fortifications · Direct soldier control**
+
+[**Play Vazante →**](https://gamestudio42.github.io/vazante/) · [Source code](https://github.com/gamestudio42/vazante)
+
+Portuguese and English interface. Four campaign missions and the Porto Velário city sandbox.
 
 <!-- Shared rows keep screenshots and play links aligned when taglines wrap. -->
 <table>
@@ -140,13 +154,13 @@ Its lobby also connects you to the standalone Urbe and Neo Urbe sites.
 
 ## Made to play. Open to possibility.
 
-We build games around systems you can explore: a growing city, a fragile water supply, a world made of blocks. The same curiosity that makes them fun to play makes them interesting to take apart.
+We build games around systems you can explore: a growing city, a fragile water supply, a world made of blocks, a city held together by squads and supply lines. The same curiosity that makes them fun to play makes them interesting to take apart.
 
 - **Start with a browser tab.** The featured games are free to play, with no installation required.
 - **Look inside.** Their source is public and MIT-licensed. Read how a mechanic works, change the rules or build your own variation.
 - **Build in the open.** Follow commits, report what you find and help shape the next change.
 
-The featured projects use **TypeScript**, with **PixiJS** for the isometric games and **Three.js** for MineBoss. The Urbe city simulations run in a **Web Worker**, keeping simulation work separate from the interface.
+The featured projects use **TypeScript**, with **PixiJS** for the isometric games and **Three.js** for MineBoss and Vazante. Vazante combines a React interface with a deterministic simulation in a **Web Worker**. The Urbe city simulations run in a **Web Worker**, keeping simulation work separate from the interface.
 
 ## Play it. Fork it. Make it yours.
 
@@ -182,6 +196,7 @@ Star the projects you enjoy, follow their commits and come back to see what grow
 
 Criamos jogos independentes e de código aberto para mentes curiosas. Jogue de graça no navegador, descubra como tudo funciona e crie com a gente.
 
+- [**Vazante**](https://gamestudio42.github.io/vazante/) — comande esquadrões, mantenha as rotas de suprimentos e defenda Porto Velário contra a horda. Interface em português e inglês.
 - [**Urbe**](https://gamestudio42.github.io/urbe/) — você cria as condições; a cidade decide o resto.
 - [**Neo Urbe**](https://gamestudio42.github.io/neo-urbe/) — erga um horizonte de neon e mantenha as redes da cidade vivas.
 - [**Urbe Oasis**](https://gamestudio42.github.io/urbe-oasis/) — água, sombra e caravanas sustentam sua cidade de adobe no deserto.
@@ -201,6 +216,7 @@ Contribua com código, arte, traduções, documentação ou relatos de problemas
 
 Creamos juegos independientes y de código abierto para mentes curiosas. Juega gratis en el navegador, descubre cómo funcionan y crea con nosotros.
 
+- [**Vazante**](https://gamestudio42.github.io/vazante/) — dirige escuadrones, mantén las rutas de suministro y defiende Porto Velário de la horda. Interfaz en portugués e inglés.
 - [**Urbe**](https://gamestudio42.github.io/urbe/) — tú pones las condiciones; la ciudad decide el resto.
 - [**Neo Urbe**](https://gamestudio42.github.io/neo-urbe/) — levanta un horizonte de neón y mantén vivas sus redes.
 - [**Urbe Oasis**](https://gamestudio42.github.io/urbe-oasis/) — agua, sombra y caravanas sostienen tu ciudad de adobe en el desierto.
@@ -220,6 +236,7 @@ Puedes contribuir con código, arte, traducciones, documentación o informes de 
 
 Nous créons des jeux indépendants et open source pour les esprits curieux. Jouez gratuitement dans votre navigateur, découvrez leur fonctionnement et créez avec nous.
 
+- [**Vazante**](https://gamestudio42.github.io/vazante/) — commandez des escouades, maintenez le ravitaillement et défendez Porto Velário contre la horde. Interface en portugais et en anglais.
 - [**Urbe**](https://gamestudio42.github.io/urbe/) — vous posez les conditions ; la ville décide du reste.
 - [**Neo Urbe**](https://gamestudio42.github.io/neo-urbe/) — bâtissez un horizon néon et gardez ses réseaux en vie.
 - [**Urbe Oasis**](https://gamestudio42.github.io/urbe-oasis/) — eau, ombre et caravanes font vivre votre ville en adobe dans le désert.
@@ -239,6 +256,7 @@ Contribuez au code, aux illustrations, aux traductions, à la documentation ou a
 
 Wir entwickeln unabhängige Open-Source-Spiele für neugierige Menschen. Spiele kostenlos im Browser, entdecke den Code und entwickle mit uns.
 
+- [**Vazante**](https://gamestudio42.github.io/vazante/) — befehle deinen Trupps, sichere die Versorgung und verteidige Porto Velário gegen die Horde. Oberfläche auf Portugiesisch und Englisch.
 - [**Urbe**](https://gamestudio42.github.io/urbe/) — du setzt die Bedingungen; die Stadt entscheidet den Rest.
 - [**Neo Urbe**](https://gamestudio42.github.io/neo-urbe/) — baue eine Neon-Skyline und halte ihre Netze am Leben.
 - [**Urbe Oasis**](https://gamestudio42.github.io/urbe-oasis/) — Wasser, Schatten und Karawanen versorgen deine Lehmziegelstadt in der Wüste.
