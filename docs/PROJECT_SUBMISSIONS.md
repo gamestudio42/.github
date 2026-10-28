@@ -61,7 +61,8 @@ These are the **defaults for new projects joining the organization**, not one
 license applied to every file. Existing licenses are reviewed case by case;
 exceptions and their rationale must be recorded in the submission before acceptance.
 
-- **Complete games — code:** `GPL-3.0-or-later`.
+- **Complete games — code, on any platform:** `AGPL-3.0-or-later`.
+- **Game servers and multiplayer infrastructure:** `AGPL-3.0-or-later`.
 - **Engines and frameworks:** `Apache-2.0`.
 - **Libraries and SDKs:** `Apache-2.0`.
 - **Development tools:** `Apache-2.0`.
@@ -69,6 +70,19 @@ exceptions and their rationale must be recorded in the submission before accepta
 - **2D/3D assets:** `CC-BY-4.0` or `CC-BY-SA-4.0`; identify which applies.
 - **Music and sound effects:** `CC0-1.0` or `CC-BY-4.0`; identify which applies.
 - **Documentation:** `CC-BY-4.0`.
+
+AGPL is not restricted to web software. For modified versions supporting remote
+network interaction, its additional requirement is to offer the Corresponding
+Source to those users; it does not require sending a pull request to Game Studio 42.
+Commercial use remains permitted under the license, including by third parties.
+See the [GNU license FAQ](https://www.gnu.org/licenses/gpl-faq.en.html).
+
+Review engine, dependency and distribution-channel compatibility before release,
+including store or console terms, DRM and source-delivery obligations. Do not
+assume a GPL exception resolves every platform conflict. Exceptions require
+documented rationale and approval; they do not override third-party rights.
+Reusable technology follows the Apache default even when it can be used online;
+identify game-server components separately when a project combines categories.
 
 Keep code, documentation and artistic-resource licenses explicit and separate.
 For mixed projects, identify each component and its applicable license. Include
@@ -84,6 +98,22 @@ A separate future initiative will evaluate possible migrations repository by
 repository, identifying rights holders, contributions, dependencies and required
 permissions. No migration is scheduled or automatic; any proposal needs its own
 review and recorded decision.
+
+### Sustainable work and commercial collaboration
+
+Recurring sponsorship and paid services can support the creator and maintainers.
+Each funding channel must identify its recipient and purpose: individual support,
+project-specific support and organization-wide funds are distinct. Sponsorship
+does not purchase acceptance, decision-making rights or guaranteed delivery.
+
+Custom development, adaptations, integrations and contracted support require
+agreement on availability, scope, price and delivery terms. Joining the community
+does not transfer authorship or create automatic revenue sharing. Any commercial
+collaboration needs a separate agreement with the people involved. Paid services
+do not restrict the rights granted by the project's license.
+
+This policy does not launch a payment service, hosted subscription or dual-license
+offer. Existing free browser games remain free to play.
 
 ### From proposal to repository
 
@@ -179,7 +209,8 @@ Estes são os **padrões para novos projetos que ingressarem**, e não uma licen
 única para todos os arquivos. Licenças existentes são avaliadas caso a caso;
 exceções e sua justificativa devem ficar registradas na proposta antes da aceitação.
 
-- **Jogos completos — código:** `GPL-3.0-or-later`.
+- **Jogos completos — código, em qualquer plataforma:** `AGPL-3.0-or-later`.
+- **Servidores de jogos e infraestrutura multiplayer:** `AGPL-3.0-or-later`.
 - **Engines e frameworks:** `Apache-2.0`.
 - **Bibliotecas e SDKs:** `Apache-2.0`.
 - **Ferramentas de desenvolvimento:** `Apache-2.0`.
@@ -187,6 +218,19 @@ exceções e sua justificativa devem ficar registradas na proposta antes da acei
 - **Assets 2D/3D:** `CC-BY-4.0` ou `CC-BY-SA-4.0`; indicar a opção aplicável.
 - **Músicas e efeitos sonoros:** `CC0-1.0` ou `CC-BY-4.0`; indicar a opção aplicável.
 - **Documentação:** `CC-BY-4.0`.
+
+A AGPL não se restringe a software web. Em versões modificadas que permitam
+interação remota pela rede, a exigência adicional é oferecer o Código-Fonte
+Correspondente a esses usuários; não há obrigação de enviar um PR ao Game Studio 42.
+O uso comercial continua permitido pela licença, inclusive por terceiros.
+Consulte a [FAQ de licenças da GNU](https://www.gnu.org/licenses/gpl-faq.en.html).
+
+Antes da distribuição, avalie compatibilidade de engines, dependências e canais,
+incluindo termos de lojas e consoles, DRM e entrega do código-fonte. Uma exceção
+GPL não resolve necessariamente conflitos com uma plataforma. Exceções exigem
+justificativa e aprovação registradas e não se sobrepõem a direitos de terceiros.
+Tecnologia reutilizável segue o padrão Apache mesmo quando utilizada online;
+identifique separadamente componentes de servidor de jogo em projetos mistos.
 
 Mantenha explícitas e separadas as licenças de código, documentação e recursos
 artísticos. Em projetos mistos, identifique cada componente e sua licença.
@@ -201,6 +245,22 @@ onde já utilizada. Esta iniciativa não altera licenças de código ou assets e
 Uma iniciativa futura e separada avaliará possíveis migrações por repositório,
 identificando titulares, contribuições, dependências e autorizações necessárias.
 Não há migração agendada nem automática; cada proposta terá avaliação e decisão próprias.
+
+### Sustentabilidade e colaboração comercial
+
+Apoio recorrente e serviços pagos podem sustentar o criador e os mantenedores.
+Cada canal deve identificar beneficiário e finalidade: apoio individual, apoio
+a um projeto e recursos da organização são distintos. Patrocínio não compra
+acolhimento, poder de decisão ou garantia de entregas.
+
+Desenvolvimento sob encomenda, personalizações, integrações e suporte contratado
+exigem acordo de disponibilidade, escopo, preço e prazo. Participar da comunidade
+não transfere autoria nem cria divisão automática de receitas. Colaboração
+comercial depende de acordo separado com as pessoas envolvidas. Serviços pagos
+não restringem os direitos concedidos pela licença do projeto.
+
+Esta política não lança um meio de pagamento, assinatura de hospedagem ou oferta
+de licença dupla. Os jogos gratuitos de navegador existentes continuam gratuitos.
 
 ### Da proposta ao repositório
 
