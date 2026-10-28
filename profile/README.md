@@ -180,13 +180,26 @@ After approval, the project gains a repository in the organization, public issue
 
 **How it works:** submit a public proposal → review with the organization → resolve entry criteria and confirm maintainers → record the decision → coordinate an approved transfer or history-preserving import.
 
-**License defaults by category:** complete game code uses `GPL-3.0-or-later`; engines, frameworks, libraries, SDKs, development tools and AI agents for games use `Apache-2.0`. Documentation uses `CC-BY-4.0`; 2D/3D assets use `CC-BY-4.0` or `CC-BY-SA-4.0`; music and sound use `CC0-1.0` or `CC-BY-4.0`. Code, documentation and resource licenses remain explicit and separate. Existing licenses and exceptions are reviewed case by case, and third-party resources retain their applicable licenses.
+**License defaults by category:** complete game code, game servers and multiplayer infrastructure use `AGPL-3.0-or-later`; engines, frameworks, libraries, SDKs, development tools and AI agents for games use `Apache-2.0`. Documentation uses `CC-BY-4.0`; 2D/3D assets use `CC-BY-4.0` or `CC-BY-SA-4.0`; music and sound use `CC0-1.0` or `CC-BY-4.0`. Code, documentation and resource licenses remain explicit and separate. Existing licenses and exceptions are reviewed case by case, and third-party resources retain their applicable licenses.
+
+AGPL is the default across platforms, including offline games. Distribution through stores or consoles requires a compatibility review of platform terms, dependencies and source-delivery requirements; availability on every platform is not guaranteed. Exceptions, including GPL where suitable, require a recorded project-specific decision.
 
 Current organization repositories keep their existing licenses, including MIT where already used. Any migration of the existing collection will be evaluated separately, project by project, with the relevant rights holders and dependencies considered; no migration is automatic.
 
 [**Propose a project →**](https://github.com/gamestudio42/.github/issues/new?template=project-submission.yml) · [Read the submission guide (EN/PT)](https://github.com/gamestudio42/.github/blob/main/docs/PROJECT_SUBMISSIONS.md)
 
 Inspired by the OCA's public collaboration, identified maintainers and project maturation, adapted to an independent game-development community.
+
+## Open development. Sustainable work.
+
+Open source can support paid, ongoing work. We want Game Studio 42 to be sustainable for its creator and maintainers through two complementary paths:
+
+- **Recurring sponsorship:** support the creator's development and maintenance work, or a specific community project through its own identified funding channel.
+- **Paid services:** discuss custom game development, adaptations, integrations and contracted support. Availability, scope, price and delivery terms must be agreed before work starts.
+
+Each funding channel must identify who receives the funds and what they support. Support for an individual maintainer is not an organization-wide fund or an automatic distribution to every project. Community participation does not transfer authorship or create an automatic revenue-sharing arrangement; any commercial collaboration needs a separate agreement with the people involved.
+
+Sponsorship is voluntary and does not purchase project acceptance, governance rights or guaranteed delivery. The currently featured browser games remain free to play. Paid services are optional and do not restrict the rights granted by each project's license.
 
 ## Play it. Fork it. Make it yours.
 
@@ -235,6 +248,8 @@ Os três jogos Urbe oferecem cinco idiomas. MineBoss tem interface em português
 
 [**Proponha um projeto →**](https://github.com/gamestudio42/.github/issues/new?template=project-submission.yml) · [Guia completo em português](https://github.com/gamestudio42/.github/blob/main/docs/PROJECT_SUBMISSIONS.md#português)
 
+**Trabalho aberto e sustentável.** Queremos sustentar o trabalho do criador e dos mantenedores com **apoio recorrente** e **serviços pagos** de desenvolvimento, personalização, integração e suporte contratado. Cada canal de apoio deve identificar seu beneficiário e sua finalidade; apoiar um mantenedor não significa financiar todos os projetos. Serviços dependem de disponibilidade e acordo de escopo, preço e prazo. Participar da comunidade não transfere autoria nem cria divisão automática de receitas. Patrocínio não compra acolhimento ou poder de decisão.
+
 Contribua com código, arte, traduções, documentação ou relatos de problemas. Leia o README do projeto escolhido e procure uma issue para começar.
 
 [**Conheça o estúdio →**](https://gamestudio42.github.io/pt/) · [Issues para começar](https://github.com/search?q=org%3Agamestudio42+is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22&amp;type=issues)
@@ -258,6 +273,8 @@ Los tres juegos Urbe ofrecen cinco idiomas. La interfaz de MineBoss está en por
 **Tu proyecto puede crecer con la comunidad Game Studio 42.** Recibimos juegos, motores, frameworks, bibliotecas, SDKs, herramientas de desarrollo y agentes de IA para videojuegos, sin limitar motor ni plataforma. Ofrecemos **mantenimiento compartido** y **adopción comunitaria**. Los proyectos iniciales con código pueden entrar en incubación; se necesita un responsable confirmado antes del ingreso. Aplicamos licencias por categoría, con excepciones evaluadas y créditos preservados. Los repositorios actuales conservan sus licencias; la promoción en el catálogo se evalúa por separado.
 
 [**Propón un proyecto →**](https://github.com/gamestudio42/.github/issues/new?template=project-submission.yml) · [Guía completa (EN/PT)](https://github.com/gamestudio42/.github/blob/main/docs/PROJECT_SUBMISSIONS.md)
+
+**Desarrollo abierto y sostenible.** Buscamos sostener el trabajo del creador y los mantenedores con **apoyo recurrente** y **servicios de pago** de desarrollo, adaptación, integración y soporte contratado. Cada canal debe identificar al beneficiario y su finalidad; apoyar a un mantenedor no financia automáticamente todos los proyectos. Los servicios requieren disponibilidad y un acuerdo sobre alcance, precio y plazos. Participar no transfiere autoría ni crea un reparto automático de ingresos. El patrocinio no compra la aceptación de proyectos ni derechos de decisión.
 
 Puedes contribuir con código, arte, traducciones, documentación o informes de errores. Empieza por el README y las issues del proyecto elegido.
 
@@ -283,6 +300,8 @@ Les trois jeux Urbe proposent cinq langues. L'interface de MineBoss est en portu
 
 [**Proposez un projet →**](https://github.com/gamestudio42/.github/issues/new?template=project-submission.yml) · [Guide complet (EN/PT)](https://github.com/gamestudio42/.github/blob/main/docs/PROJECT_SUBMISSIONS.md)
 
+**Un travail ouvert et durable.** Nous souhaitons soutenir le travail du créateur et des responsables des projets par un **soutien récurrent** et des **prestations payantes** : développement, adaptation, intégration et assistance contractuelle. Chaque canal doit préciser son bénéficiaire et son objet ; soutenir une personne ne finance pas automatiquement tous les projets. Les prestations dépendent des disponibilités et d'un accord sur le périmètre, le prix et les délais. Participer ne transfère pas la paternité et ne crée pas de partage automatique des revenus. Le soutien financier n'achète ni l'accueil d'un projet ni des droits de décision.
+
 Contribuez au code, aux illustrations, aux traductions, à la documentation ou aux rapports de bugs. Commencez par le README et les issues du projet choisi.
 
 [**Découvrez le studio →**](https://gamestudio42.github.io/fr/) · [Issues pour commencer](https://github.com/search?q=org%3Agamestudio42+is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22&amp;type=issues)
@@ -306,6 +325,8 @@ Die drei Urbe-Spiele bieten fünf Sprachen. Die Oberfläche von MineBoss ist auf
 **Dein Projekt kann mit der Game Studio 42 Community wachsen.** Wir begrüßen Spiele, Engines, Frameworks, Bibliotheken, SDKs, Entwicklungswerkzeuge und KI-Agenten für Spiele, unabhängig von Engine oder Plattform. Möglich sind **gemeinsame Wartung** und **Übernahme durch die Community**. Frühe Projekte mit vorhandenem Code können in die Inkubation aufgenommen werden; vorher muss eine verantwortliche Person bestätigt sein. Lizenzen folgen Vorgaben je Kategorie, mit geprüften Ausnahmen und erhaltenen Urheberangaben. Bestehende Repository-Lizenzen bleiben erhalten; die Aufnahme in den Spielekatalog wird gesondert geprüft.
 
 [**Schlage ein Projekt vor →**](https://github.com/gamestudio42/.github/issues/new?template=project-submission.yml) · [Vollständiger Leitfaden (EN/PT)](https://github.com/gamestudio42/.github/blob/main/docs/PROJECT_SUBMISSIONS.md)
+
+**Offene Entwicklung, nachhaltige Arbeit.** Wir möchten die Arbeit des Gründers und der Maintainer durch **regelmäßige Unterstützung** und **bezahlte Leistungen** finanzieren: Entwicklung, Anpassung, Integration und vertraglichen Support. Jeder Finanzierungskanal muss Empfänger und Zweck nennen; die Unterstützung einer Person finanziert nicht automatisch alle Projekte. Leistungen setzen Verfügbarkeit und eine Vereinbarung über Umfang, Preis und Termine voraus. Die Teilnahme überträgt keine Urheberschaft und begründet keine automatische Umsatzbeteiligung. Sponsoring erkauft weder die Aufnahme eines Projekts noch Entscheidungsrechte.
 
 Hilf mit Code, Grafik, Übersetzungen, Dokumentation oder Fehlerberichten. Beginne mit der README und den Issues des gewählten Projekts.
 
