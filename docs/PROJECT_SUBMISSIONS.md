@@ -57,9 +57,15 @@ archived with its status documented rather than promise continuing support.
 
 ### Licensing by category
 
-These are the **defaults for new projects joining the organization**, not one
+These are the **preferred defaults for new projects joining the organization**, not one
 license applied to every file. Existing licenses are reviewed case by case;
 exceptions and their rationale must be recorded in the submission before acceptance.
+
+MIT, BSD, GPL and other open-source licenses may also be accepted after evaluation.
+Consider the project's goals, community, dependencies and distribution channels.
+Organization owners approve the chosen license and record the rationale for any
+exception in the proposal. Joining does not require automatic relicensing.
+This community intake remains for open-source software.
 
 - **Complete games — code, on any platform:** `AGPL-3.0-or-later`.
 - **Game servers and multiplayer infrastructure:** `AGPL-3.0-or-later`.
@@ -211,9 +217,15 @@ estado documentado, em vez de prometer suporte contínuo.
 
 ### Licenciamento por categoria
 
-Estes são os **padrões para novos projetos que ingressarem**, e não uma licença
+Estes são os **padrões preferenciais para novos projetos que ingressarem**, e não uma licença
 única para todos os arquivos. Licenças existentes são avaliadas caso a caso;
 exceções e sua justificativa devem ficar registradas na proposta antes da aceitação.
+
+MIT, BSD, GPL e outras licenças de código aberto também podem ser aceitas após avaliação.
+São considerados os objetivos, a comunidade, as dependências e os canais de distribuição.
+Os responsáveis pela organização aprovam a licença escolhida e registram na proposta
+a justificativa de eventuais exceções. O ingresso não exige relicenciamento automático.
+Este fluxo comunitário continua voltado a software de código aberto.
 
 - **Jogos completos — código, em qualquer plataforma:** `AGPL-3.0-or-later`.
 - **Servidores de jogos e infraestrutura multiplayer:** `AGPL-3.0-or-later`.
