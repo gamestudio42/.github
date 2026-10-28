@@ -201,6 +201,10 @@ Each funding channel must identify who receives the funds and what they support.
 
 Sponsorship is voluntary and does not purchase project acceptance, governance rights or guaranteed delivery. The currently featured browser games remain free to play. Paid services are optional and do not restrict the rights granted by each project's license.
 
+**Talk about services or sponsorship:** [talkgamestudio42@gmail.com](mailto:talkgamestudio42@gmail.com).
+
+GitHub Sponsors for the `gamestudio42` organization is being prepared. A Patreon is also under consideration. Payment links will be published once the channels are active, with their recipient and purpose clearly identified.
+
 ## Play it. Fork it. Make it yours.
 
 A good contribution can start with a play session, a clear bug report, a translation, a better sprite or a change to the simulation.
@@ -250,6 +254,10 @@ Os três jogos Urbe oferecem cinco idiomas. MineBoss tem interface em português
 
 **Trabalho aberto e sustentável.** Queremos sustentar o trabalho do criador e dos mantenedores com **apoio recorrente** e **serviços pagos** de desenvolvimento, personalização, integração e suporte contratado. Cada canal de apoio deve identificar seu beneficiário e sua finalidade; apoiar um mantenedor não significa financiar todos os projetos. Serviços dependem de disponibilidade e acordo de escopo, preço e prazo. Participar da comunidade não transfere autoria nem cria divisão automática de receitas. Patrocínio não compra acolhimento ou poder de decisão.
 
+**Converse sobre serviços ou patrocínio:** [talkgamestudio42@gmail.com](mailto:talkgamestudio42@gmail.com).
+
+O GitHub Sponsors da organização `gamestudio42` está em preparação. Um Patreon também está em avaliação. Os links de apoio serão publicados quando os canais estiverem ativos, com beneficiário e finalidade identificados.
+
 Contribua com código, arte, traduções, documentação ou relatos de problemas. Leia o README do projeto escolhido e procure uma issue para começar.
 
 [**Conheça o estúdio →**](https://gamestudio42.github.io/pt/) · [Issues para começar](https://github.com/search?q=org%3Agamestudio42+is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22&amp;type=issues)
@@ -275,6 +283,10 @@ Los tres juegos Urbe ofrecen cinco idiomas. La interfaz de MineBoss está en por
 [**Propón un proyecto →**](https://github.com/gamestudio42/.github/issues/new?template=project-submission.yml) · [Guía completa (EN/PT)](https://github.com/gamestudio42/.github/blob/main/docs/PROJECT_SUBMISSIONS.md)
 
 **Desarrollo abierto y sostenible.** Buscamos sostener el trabajo del creador y los mantenedores con **apoyo recurrente** y **servicios de pago** de desarrollo, adaptación, integración y soporte contratado. Cada canal debe identificar al beneficiario y su finalidad; apoyar a un mantenedor no financia automáticamente todos los proyectos. Los servicios requieren disponibilidad y un acuerdo sobre alcance, precio y plazos. Participar no transfiere autoría ni crea un reparto automático de ingresos. El patrocinio no compra la aceptación de proyectos ni derechos de decisión.
+
+**Hablemos de servicios o patrocinio:** [talkgamestudio42@gmail.com](mailto:talkgamestudio42@gmail.com).
+
+Estamos preparando GitHub Sponsors para la organización `gamestudio42` y considerando Patreon. Publicaremos los enlaces cuando los canales estén activos, indicando beneficiario y finalidad.
 
 Puedes contribuir con código, arte, traducciones, documentación o informes de errores. Empieza por el README y las issues del proyecto elegido.
 
@@ -302,6 +314,10 @@ Les trois jeux Urbe proposent cinq langues. L'interface de MineBoss est en portu
 
 **Un travail ouvert et durable.** Nous souhaitons soutenir le travail du créateur et des responsables des projets par un **soutien récurrent** et des **prestations payantes** : développement, adaptation, intégration et assistance contractuelle. Chaque canal doit préciser son bénéficiaire et son objet ; soutenir une personne ne finance pas automatiquement tous les projets. Les prestations dépendent des disponibilités et d'un accord sur le périmètre, le prix et les délais. Participer ne transfère pas la paternité et ne crée pas de partage automatique des revenus. Le soutien financier n'achète ni l'accueil d'un projet ni des droits de décision.
 
+**Parlons de prestations ou de soutien financier :** [talkgamestudio42@gmail.com](mailto:talkgamestudio42@gmail.com).
+
+GitHub Sponsors est en préparation pour l’organisation `gamestudio42`. Patreon est également à l’étude. Les liens seront publiés une fois les canaux actifs, avec leur bénéficiaire et leur objet.
+
 Contribuez au code, aux illustrations, aux traductions, à la documentation ou aux rapports de bugs. Commencez par le README et les issues du projet choisi.
 
 [**Découvrez le studio →**](https://gamestudio42.github.io/fr/) · [Issues pour commencer](https://github.com/search?q=org%3Agamestudio42+is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22&amp;type=issues)
@@ -327,6 +343,10 @@ Die drei Urbe-Spiele bieten fünf Sprachen. Die Oberfläche von MineBoss ist auf
 [**Schlage ein Projekt vor →**](https://github.com/gamestudio42/.github/issues/new?template=project-submission.yml) · [Vollständiger Leitfaden (EN/PT)](https://github.com/gamestudio42/.github/blob/main/docs/PROJECT_SUBMISSIONS.md)
 
 **Offene Entwicklung, nachhaltige Arbeit.** Wir möchten die Arbeit des Gründers und der Maintainer durch **regelmäßige Unterstützung** und **bezahlte Leistungen** finanzieren: Entwicklung, Anpassung, Integration und vertraglichen Support. Jeder Finanzierungskanal muss Empfänger und Zweck nennen; die Unterstützung einer Person finanziert nicht automatisch alle Projekte. Leistungen setzen Verfügbarkeit und eine Vereinbarung über Umfang, Preis und Termine voraus. Die Teilnahme überträgt keine Urheberschaft und begründet keine automatische Umsatzbeteiligung. Sponsoring erkauft weder die Aufnahme eines Projekts noch Entscheidungsrechte.
+
+**Kontakt für Leistungen oder Sponsoring:** [talkgamestudio42@gmail.com](mailto:talkgamestudio42@gmail.com).
+
+GitHub Sponsors für die Organisation `gamestudio42` wird vorbereitet. Auch Patreon wird erwogen. Links folgen, sobald die Kanäle aktiv und Empfänger und Zweck benannt sind.
 
 Hilf mit Code, Grafik, Übersetzungen, Dokumentation oder Fehlerberichten. Beginne mit der README und den Issues des gewählten Projekts.
 
