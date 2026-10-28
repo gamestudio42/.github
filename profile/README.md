@@ -24,6 +24,13 @@
   <sub><a href="https://gamestudio42.github.io/pt/">Português</a> · <a href="https://gamestudio42.github.io/es/">Español</a> · <a href="https://gamestudio42.github.io/fr/">Français</a> · <a href="https://gamestudio42.github.io/de/">Deutsch</a></sub>
 </p>
 
+<p align="center">
+  <strong>Your project can grow with the Game Studio 42 community.</strong><br>
+  Bring your open-source game, engine, library, SDK, development tool or AI agent for games.<br>
+  <a href="https://github.com/gamestudio42/.github/issues/new?template=project-submission.yml"><img src="https://img.shields.io/badge/Propose_a_project-c2f879?style=for-the-badge&amp;labelColor=101310&amp;color=c2f879" alt="Propose a project to the Game Studio 42 community"></a><br>
+  <sub>Shared maintenance or community adoption · Any engine or platform · English or Portuguese welcome</sub>
+</p>
+
 ---
 
 ## Find your next world
@@ -157,10 +164,29 @@ Its lobby also connects you to the standalone Urbe and Neo Urbe sites.
 We build games around systems you can explore: a growing city, a fragile water supply, a world made of blocks, a city held together by squads and supply lines. The same curiosity that makes them fun to play makes them interesting to take apart.
 
 - **Start with a browser tab.** The featured games are free to play, with no installation required.
-- **Look inside.** Their source is public and MIT-licensed. Read how a mechanic works, change the rules or build your own variation.
+- **Look inside.** The games currently featured here have public, MIT-licensed source; incoming projects follow the category policy below. Read how a mechanic works, change the rules or build your own variation.
 - **Build in the open.** Follow commits, report what you find and help shape the next change.
 
 The featured projects use **TypeScript**, with **PixiJS** for the isometric games and **Three.js** for MineBoss and Vazante. Vazante combines a React interface with a deterministic simulation in a **Web Worker**. The Urbe city simulations run in a **Web Worker**, keeping simulation work separate from the interface.
+
+## Your project can grow with the community
+
+We welcome **open-source games, engines, frameworks, libraries, SDKs, development tools and AI agents for games**, on any engine or platform. Bring working software or an early implementation ready for **incubation**; source code must already exist.
+
+- **Shared maintenance:** stay involved as a maintainer and build with other contributors.
+- **Community adoption:** propose a handover so new maintainers can continue the project. Proposals can wait for interested volunteers.
+
+After approval, the project gains a repository in the organization, public issues and PRs, and a shared home for documentation and continuity. Authors, credits and history are preserved. At least one responsible maintainer must be confirmed before a repository joins. Hosting does not guarantee funding, a dedicated team, support deadlines or permanent maintenance; promotion in the studio catalog is evaluated separately.
+
+**How it works:** submit a public proposal → review with the organization → resolve entry criteria and confirm maintainers → record the decision → coordinate an approved transfer or history-preserving import.
+
+**License defaults by category:** complete game code uses `GPL-3.0-or-later`; engines, frameworks, libraries, SDKs, development tools and AI agents for games use `Apache-2.0`. Documentation uses `CC-BY-4.0`; 2D/3D assets use `CC-BY-4.0` or `CC-BY-SA-4.0`; music and sound use `CC0-1.0` or `CC-BY-4.0`. Code, documentation and resource licenses remain explicit and separate. Existing licenses and exceptions are reviewed case by case, and third-party resources retain their applicable licenses.
+
+Current organization repositories keep their existing licenses, including MIT where already used. Any migration of the existing collection will be evaluated separately, project by project, with the relevant rights holders and dependencies considered; no migration is automatic.
+
+[**Propose a project →**](https://github.com/gamestudio42/.github/issues/new?template=project-submission.yml) · [Read the submission guide (EN/PT)](https://github.com/gamestudio42/.github/blob/main/docs/PROJECT_SUBMISSIONS.md)
+
+Inspired by the OCA's public collaboration, identified maintainers and project maturation, adapted to an independent game-development community.
 
 ## Play it. Fork it. Make it yours.
 
@@ -203,7 +229,11 @@ Criamos jogos independentes e de código aberto para mentes curiosas. Jogue de g
 - [**MineBoss**](https://gamestudio42.github.io/mineboss/) — construa, explore e enfrente chefões opcionais em Aventura ou OneBlock.
 - [**Plot 42**](https://gamestudio42.github.io/plot42/) — experimente Horta, Posto e Mata e encontre os links para Urbe e Neo Urbe.
 
-Os três jogos Urbe oferecem cinco idiomas. MineBoss tem interface em português. Os projetos apresentados usam licença MIT; consulte os detalhes em cada repositório.
+Os três jogos Urbe oferecem cinco idiomas. MineBoss tem interface em português. Os jogos atualmente apresentados usam MIT; novos projetos seguem a política por categoria, sem migração automática dos existentes.
+
+**Seu projeto pode crescer com a comunidade Game Studio 42.** Recebemos jogos, engines, frameworks, bibliotecas, SDKs, ferramentas de desenvolvimento e agentes de IA para games, em qualquer engine ou plataforma. Participe pela **manutenção compartilhada** ou proponha **adoção comunitária**. Projetos iniciais com código podem entrar em incubação; é necessário confirmar um mantenedor antes do acolhimento. Licenças seguem padrões por categoria, com exceções avaliadas e créditos preservados. Os repositórios atuais mantêm suas licenças; divulgação no catálogo é avaliada separadamente.
+
+[**Proponha um projeto →**](https://github.com/gamestudio42/.github/issues/new?template=project-submission.yml) · [Guia completo em português](https://github.com/gamestudio42/.github/blob/main/docs/PROJECT_SUBMISSIONS.md#português)
 
 Contribua com código, arte, traduções, documentação ou relatos de problemas. Leia o README do projeto escolhido e procure uma issue para começar.
 
@@ -223,7 +253,11 @@ Creamos juegos independientes y de código abierto para mentes curiosas. Juega g
 - [**MineBoss**](https://gamestudio42.github.io/mineboss/) — construye, explora y busca jefes opcionales en Aventura o OneBlock.
 - [**Plot 42**](https://gamestudio42.github.io/plot42/) — descubre Horta, Posto y Mata, con enlaces a Urbe y Neo Urbe.
 
-Los tres juegos Urbe ofrecen cinco idiomas. La interfaz de MineBoss está en portugués. Los proyectos presentados usan la licencia MIT; consulta los detalles en cada repositorio.
+Los tres juegos Urbe ofrecen cinco idiomas. La interfaz de MineBoss está en portugués. Los juegos actualmente presentados usan MIT; los nuevos proyectos siguen la política por categoría, sin migración automática de los existentes.
+
+**Tu proyecto puede crecer con la comunidad Game Studio 42.** Recibimos juegos, motores, frameworks, bibliotecas, SDKs, herramientas de desarrollo y agentes de IA para videojuegos, sin limitar motor ni plataforma. Ofrecemos **mantenimiento compartido** y **adopción comunitaria**. Los proyectos iniciales con código pueden entrar en incubación; se necesita un responsable confirmado antes del ingreso. Aplicamos licencias por categoría, con excepciones evaluadas y créditos preservados. Los repositorios actuales conservan sus licencias; la promoción en el catálogo se evalúa por separado.
+
+[**Propón un proyecto →**](https://github.com/gamestudio42/.github/issues/new?template=project-submission.yml) · [Guía completa (EN/PT)](https://github.com/gamestudio42/.github/blob/main/docs/PROJECT_SUBMISSIONS.md)
 
 Puedes contribuir con código, arte, traducciones, documentación o informes de errores. Empieza por el README y las issues del proyecto elegido.
 
@@ -243,7 +277,11 @@ Nous créons des jeux indépendants et open source pour les esprits curieux. Jou
 - [**MineBoss**](https://gamestudio42.github.io/mineboss/) — construisez, explorez et affrontez des boss optionnels en Aventure ou OneBlock.
 - [**Plot 42**](https://gamestudio42.github.io/plot42/) — découvrez Horta, Posto et Mata, ainsi que les liens vers Urbe et Neo Urbe.
 
-Les trois jeux Urbe proposent cinq langues. L'interface de MineBoss est en portugais. Les projets présentés sont sous licence MIT ; consultez les détails dans chaque dépôt.
+Les trois jeux Urbe proposent cinq langues. L'interface de MineBoss est en portugais. Les jeux actuellement présentés sont sous licence MIT ; les nouveaux projets suivent les règles par catégorie, sans migration automatique des dépôts existants.
+
+**Votre projet peut grandir avec la communauté Game Studio 42.** Nous accueillons jeux, moteurs, frameworks, bibliothèques, SDK, outils de développement et agents IA pour les jeux, sans restriction de moteur ou de plateforme. Choisissez la **maintenance partagée** ou proposez une **reprise communautaire**. Les projets avec du code peuvent entrer en incubation ; un responsable doit être confirmé avant leur accueil. Les licences suivent des règles par catégorie, avec exceptions examinées et crédits préservés. Les dépôts actuels conservent leurs licences ; la promotion au catalogue est évaluée séparément.
+
+[**Proposez un projet →**](https://github.com/gamestudio42/.github/issues/new?template=project-submission.yml) · [Guide complet (EN/PT)](https://github.com/gamestudio42/.github/blob/main/docs/PROJECT_SUBMISSIONS.md)
 
 Contribuez au code, aux illustrations, aux traductions, à la documentation ou aux rapports de bugs. Commencez par le README et les issues du projet choisi.
 
@@ -263,7 +301,11 @@ Wir entwickeln unabhängige Open-Source-Spiele für neugierige Menschen. Spiele 
 - [**MineBoss**](https://gamestudio42.github.io/mineboss/) — baue, erkunde und stelle dich optionalen Bossen in Abenteuer oder OneBlock.
 - [**Plot 42**](https://gamestudio42.github.io/plot42/) — entdecke Horta, Posto und Mata sowie die Links zu Urbe und Neo Urbe.
 
-Die drei Urbe-Spiele bieten fünf Sprachen. Die Oberfläche von MineBoss ist auf Portugiesisch. Die vorgestellten Projekte stehen unter der MIT-Lizenz; Details findest du im jeweiligen Repository.
+Die drei Urbe-Spiele bieten fünf Sprachen. Die Oberfläche von MineBoss ist auf Portugiesisch. Die aktuell vorgestellten Spiele verwenden MIT; neue Projekte folgen den Vorgaben je Kategorie, ohne automatische Lizenzänderung bestehender Projekte.
+
+**Dein Projekt kann mit der Game Studio 42 Community wachsen.** Wir begrüßen Spiele, Engines, Frameworks, Bibliotheken, SDKs, Entwicklungswerkzeuge und KI-Agenten für Spiele, unabhängig von Engine oder Plattform. Möglich sind **gemeinsame Wartung** und **Übernahme durch die Community**. Frühe Projekte mit vorhandenem Code können in die Inkubation aufgenommen werden; vorher muss eine verantwortliche Person bestätigt sein. Lizenzen folgen Vorgaben je Kategorie, mit geprüften Ausnahmen und erhaltenen Urheberangaben. Bestehende Repository-Lizenzen bleiben erhalten; die Aufnahme in den Spielekatalog wird gesondert geprüft.
+
+[**Schlage ein Projekt vor →**](https://github.com/gamestudio42/.github/issues/new?template=project-submission.yml) · [Vollständiger Leitfaden (EN/PT)](https://github.com/gamestudio42/.github/blob/main/docs/PROJECT_SUBMISSIONS.md)
 
 Hilf mit Code, Grafik, Übersetzungen, Dokumentation oder Fehlerberichten. Beginne mit der README und den Issues des gewählten Projekts.
 
