@@ -1,0 +1,115 @@
+name: Propose a project / Proponha um projeto
+description: Bring an open-source game or game-development technology to Game Studio 42.
+title: "[Project proposal]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Your project can grow with the Game Studio 42 community.
+        **English or Portuguese is welcome / Respostas em português ou inglês são bem-vindas.**
+        Read the [submission guide](https://github.com/gamestudio42/.github/blob/main/docs/PROJECT_SUBMISSIONS.md).
+        Proposals are public. Do not include credentials or private information.
+        This starts a review, not automatic acceptance or transfer. Source code must already exist.
+  - type: input
+    id: project-name
+    attributes:
+      label: Project name
+      description: The name used in your repository and documentation.
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Project category
+      description: Choose the main category; describe any additional components below.
+      options:
+        - Game
+        - Engine or framework
+        - Library or SDK
+        - Development tool
+        - AI agent for games
+    validations:
+      required: true
+  - type: input
+    id: repository
+    attributes:
+      label: Public source repository
+      description: Link to the existing source code. Ideas without code are outside this intake process.
+      placeholder: https://github.com/owner/project
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What does your project do?
+      description: Describe its purpose, audience, platforms, engine/stack and what you hope to gain from joining.
+    validations:
+      required: true
+  - type: dropdown
+    id: maturity
+    attributes:
+      label: Current maturity
+      options:
+        - Early implementation / incubation candidate
+        - Runnable prototype / alpha
+        - Beta
+        - Released / stable
+    validations:
+      required: true
+  - type: textarea
+    id: running
+    attributes:
+      label: Build, run or use the project
+      description: Include setup instructions or a link, known limitations, and an optional demo/screenshots. If it does not run yet, explain what is missing.
+    validations:
+      required: true
+  - type: dropdown
+    id: maintenance-mode
+    attributes:
+      label: Maintenance mode
+      options:
+        - Shared maintenance — I will stay involved as a maintainer
+        - Community adoption — seeking maintainers to take over
+    validations:
+      required: true
+  - type: textarea
+    id: maintainers
+    attributes:
+      label: Maintainers and handover
+      description: Name the GitHub users who have agreed to maintain it and their roles. For adoption without a confirmed maintainer, say so and describe available handover help. A maintainer must be confirmed before the repository joins.
+    validations:
+      required: true
+  - type: textarea
+    id: licensing
+    attributes:
+      label: Licenses, authorship and third-party inventory
+      description: Separate code, documentation, 2D/3D assets, music and sound licenses. Link license files and a dependency/asset inventory with origins, licenses and required credits. Mark absent categories and unresolved items. Existing projects keep their licenses until a separate agreed change.
+      placeholder: |
+        Code components and licenses:
+        Documentation:
+        2D/3D assets:
+        Music and sound:
+        Authors / rights holders:
+        Dependencies and asset inventory (link or details):
+        Exceptions requested from the category defaults, with reasons:
+        Unresolved items:
+    validations:
+      required: true
+  - type: textarea
+    id: authority
+    attributes:
+      label: Authority to coordinate the proposed move
+      description: State your relationship to the project and authority to coordinate a transfer, or identify the owners whose approval is still needed. Do not share private documents. Required approvals must be obtained before any move.
+    validations:
+      required: true
+  - type: checkboxes
+    id: acknowledgements
+    attributes:
+      label: Before submitting
+      options:
+        - label: I have described my authority to propose this move and any outstanding owner approvals; this proposal does not authorize a transfer or relicensing by itself.
+          required: true
+        - label: I understand that acceptance requires review and at least one confirmed maintainer; hosting does not guarantee funding, a dedicated team, permanent maintenance or catalog inclusion.
+          required: true
+        - label: I have read the submission guide and will preserve authorship, history, credits and applicable licenses; third-party resources are not automatically relicensed.
+          required: true
