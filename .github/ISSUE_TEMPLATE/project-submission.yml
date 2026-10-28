@@ -24,6 +24,7 @@ body:
       description: Choose the main category; describe any additional components below.
       options:
         - Game
+        - Game server or multiplayer infrastructure
         - Engine or framework
         - Library or SDK
         - Development tool
