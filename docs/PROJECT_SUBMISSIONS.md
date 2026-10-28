@@ -115,6 +115,12 @@ do not restrict the rights granted by the project's license.
 This policy does not launch a payment service, hosted subscription or dual-license
 offer. Existing free browser games remain free to play.
 
+For services or sponsorship inquiries, contact
+[talkgamestudio42@gmail.com](mailto:talkgamestudio42@gmail.com).
+GitHub Sponsors for the organization is being prepared; Patreon is under consideration.
+Active payment channels will be listed with their recipient and purpose before funds are solicited.
+Project submissions continue through the public issue form.
+
 ### From proposal to repository
 
 1. **Propose publicly.** Use the form, link the source and describe the project,
@@ -261,6 +267,12 @@ não restringem os direitos concedidos pela licença do projeto.
 
 Esta política não lança um meio de pagamento, assinatura de hospedagem ou oferta
 de licença dupla. Os jogos gratuitos de navegador existentes continuam gratuitos.
+
+Para conversar sobre serviços ou patrocínio, escreva para
+[talkgamestudio42@gmail.com](mailto:talkgamestudio42@gmail.com).
+O GitHub Sponsors da organização está em preparação; Patreon está em avaliação.
+Canais de pagamento ativos serão divulgados com beneficiário e finalidade antes da solicitação de recursos.
+Propostas de acolhimento continuam pelo formulário público de issue.
 
 ### Da proposta ao repositório
 
