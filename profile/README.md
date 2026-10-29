@@ -35,7 +35,7 @@
 
 ## Find your next world
 
-Hold a city against the horde, plan a new district, keep the neon alive, follow a wandering spring or build an adventure one block at a time. Pick a world and start playing.
+Grow a coffee farm into a village, hold a city against the horde, plan a new district, keep the neon alive, follow a wandering spring or build an adventure one block at a time. Pick a world and start playing.
 
 ### Vazante — Hold the city. Take the rifle.
 
@@ -50,6 +50,20 @@ Command squads through Porto Velário, keep supply trucks moving and fortify you
 [**Play Vazante →**](https://gamestudio42.github.io/vazante/) · [Source code](https://github.com/gamestudio42/vazante)
 
 Portuguese and English interface. Four campaign missions and the Porto Velário city sandbox.
+
+### Sítio — The farm that becomes a village.
+
+Grow coffee, organize family work and turn a small farm into a community. Plan each month, tend your harvests and build what lasts.
+
+<a href="https://gamestudio42.github.io/sitio/">
+  <img src="screenshots/sitio.jpg" width="920" alt="Sítio gameplay: an isometric coffee farm with family houses, coffee lots, roads and village buildings">
+</a>
+
+**Farm management · Coffee production · Families & village life**
+
+[**Play Sítio →**](https://gamestudio42.github.io/sitio/) · [Source code](https://github.com/gamestudio42/sitio)
+
+English, Portuguese, Spanish, French and German interface. Game code: AGPL-3.0-or-later; reusable libraries: Apache-2.0; art and documentation: CC-BY-4.0. See [Sítio licensing](https://github.com/gamestudio42/sitio/blob/main/LICENSING.md) for the complete breakdown.
 
 <!-- Shared rows keep screenshots and play links aligned when taglines wrap. -->
 <table>
@@ -143,7 +157,7 @@ Portuguese and English interface. Four campaign missions and the Porto Velário 
 </tr>
 </table>
 
-<sub>Real gameplay from the projects. Urbe, Neo Urbe and Urbe Oasis support English, Portuguese, Spanish, French and German. MineBoss currently has a Portuguese player interface.</sub>
+<sub>Real gameplay from the projects. Sítio, Urbe, Neo Urbe and Urbe Oasis support English, Portuguese, Spanish, French and German. MineBoss currently has a Portuguese player interface.</sub>
 
 ### More room to experiment: Plot 42
 
@@ -161,13 +175,13 @@ Its lobby also connects you to the standalone Urbe and Neo Urbe sites.
 
 ## Made to play. Open to possibility.
 
-We build games around systems you can explore: a growing city, a fragile water supply, a world made of blocks, a city held together by squads and supply lines. The same curiosity that makes them fun to play makes them interesting to take apart.
+We build games around systems you can explore: a coffee farm becoming a village, a growing city, a fragile water supply, a world made of blocks, a city held together by squads and supply lines. The same curiosity that makes them fun to play makes them interesting to take apart.
 
 - **Start with a browser tab.** The featured games are free to play, with no installation required.
-- **Look inside.** The games currently featured here have public, MIT-licensed source; incoming projects follow the category policy below. Read how a mechanic works, change the rules or build your own variation.
+- **Look inside.** Each featured game has public source code under its own license; check its repository for code, asset and dependency terms. Read how a mechanic works, change the rules or build your own variation.
 - **Build in the open.** Follow commits, report what you find and help shape the next change.
 
-The featured projects use **TypeScript**, with **PixiJS** for the isometric games and **Three.js** for MineBoss and Vazante. Vazante combines a React interface with a deterministic simulation in a **Web Worker**. The Urbe city simulations run in a **Web Worker**, keeping simulation work separate from the interface.
+The featured projects use **TypeScript**, with **PixiJS** for the Urbe games and **Three.js** for MineBoss and Vazante. Sítio and Vazante combine a React interface with a deterministic simulation in a **Web Worker**. The Urbe city simulations run in a **Web Worker**, keeping simulation work separate from the interface.
 
 ## Your project can grow with the community
 
@@ -240,13 +254,14 @@ Star the projects you enjoy, follow their commits and come back to see what grow
 Criamos jogos independentes e de código aberto para mentes curiosas. Jogue de graça no navegador, descubra como tudo funciona e crie com a gente.
 
 - [**Vazante**](https://gamestudio42.github.io/vazante/) — comande esquadrões, mantenha as rotas de suprimentos e defenda Porto Velário contra a horda. Interface em português e inglês.
+- [**Sítio**](https://gamestudio42.github.io/sitio/) — cultive café, organize o trabalho das famílias e transforme uma fazenda em vila. Interface em cinco idiomas.
 - [**Urbe Oasis**](https://gamestudio42.github.io/urbe-oasis/) — água, sombra e caravanas sustentam sua cidade de adobe no deserto.
 - [**Neo Urbe**](https://gamestudio42.github.io/neo-urbe/) — erga um horizonte de neon e mantenha as redes da cidade vivas.
 - [**Urbe**](https://gamestudio42.github.io/urbe/) — você cria as condições; a cidade decide o resto.
 - [**MineBoss**](https://gamestudio42.github.io/mineboss/) — construa, explore e enfrente chefões opcionais em Aventura ou OneBlock.
 - [**Plot 42**](https://gamestudio42.github.io/plot42/) — experimente Horta, Posto e Mata e encontre os links para Urbe e Neo Urbe.
 
-Os três jogos Urbe oferecem cinco idiomas. MineBoss tem interface em português. Os jogos atualmente apresentados usam MIT; novos projetos seguem a política por categoria, sem migração automática dos existentes.
+Os três jogos Urbe oferecem cinco idiomas. MineBoss tem interface em português. Cada projeto mantém sua própria licença. Sítio usa AGPL-3.0-or-later para o jogo, Apache-2.0 para bibliotecas reutilizáveis e CC-BY-4.0 para arte e documentação; novos projetos seguem a política por categoria, sem migração automática dos existentes.
 
 **Seu projeto pode crescer com a comunidade Game Studio 42.** Recebemos jogos, engines, frameworks, bibliotecas, SDKs, ferramentas de desenvolvimento e agentes de IA para games, em qualquer engine ou plataforma. Participe pela **manutenção compartilhada** ou proponha **adoção comunitária**. Projetos iniciais com código podem entrar em incubação; é necessário confirmar um mantenedor antes do acolhimento. AGPL e Apache são padrões preferenciais; projetos MIT, BSD, GPL ou sob outras licenças de código aberto também podem ser acolhidos mediante avaliação. A escolha e as exceções são justificadas e registradas, sem relicenciamento automático e com créditos preservados. Os repositórios atuais mantêm suas licenças; divulgação no catálogo é avaliada separadamente.
 
@@ -270,13 +285,14 @@ Contribua com código, arte, traduções, documentação ou relatos de problemas
 Creamos juegos independientes y de código abierto para mentes curiosas. Juega gratis en el navegador, descubre cómo funcionan y crea con nosotros.
 
 - [**Vazante**](https://gamestudio42.github.io/vazante/) — dirige escuadrones, mantén las rutas de suministro y defiende Porto Velário de la horda. Interfaz en portugués e inglés.
+- [**Sítio**](https://gamestudio42.github.io/sitio/) — cultiva café, organiza el trabajo de las familias y transforma una granja en pueblo. Interfaz en cinco idiomas.
 - [**Urbe Oasis**](https://gamestudio42.github.io/urbe-oasis/) — agua, sombra y caravanas sostienen tu ciudad de adobe en el desierto.
 - [**Neo Urbe**](https://gamestudio42.github.io/neo-urbe/) — levanta un horizonte de neón y mantén vivas sus redes.
 - [**Urbe**](https://gamestudio42.github.io/urbe/) — tú pones las condiciones; la ciudad decide el resto.
 - [**MineBoss**](https://gamestudio42.github.io/mineboss/) — construye, explora y busca jefes opcionales en Aventura o OneBlock.
 - [**Plot 42**](https://gamestudio42.github.io/plot42/) — descubre Horta, Posto y Mata, con enlaces a Urbe y Neo Urbe.
 
-Los tres juegos Urbe ofrecen cinco idiomas. La interfaz de MineBoss está en portugués. Los juegos actualmente presentados usan MIT; los nuevos proyectos siguen la política por categoría, sin migración automática de los existentes.
+Los tres juegos Urbe ofrecen cinco idiomas. La interfaz de MineBoss está en portugués. Cada proyecto conserva su propia licencia. Sítio usa AGPL-3.0-or-later para el juego, Apache-2.0 para bibliotecas reutilizables y CC-BY-4.0 para arte y documentación; los nuevos proyectos siguen la política por categoría, sin migración automática de los existentes.
 
 **Tu proyecto puede crecer con la comunidad Game Studio 42.** Recibimos juegos, motores, frameworks, bibliotecas, SDKs, herramientas de desarrollo y agentes de IA para videojuegos, sin limitar motor ni plataforma. Ofrecemos **mantenimiento compartido** y **adopción comunitaria**. Los proyectos iniciales con código pueden entrar en incubación; se necesita un responsable confirmado antes del ingreso. AGPL y Apache son los estándares preferidos; también evaluamos proyectos MIT, BSD, GPL u otras licencias de código abierto. La elección y las excepciones se justifican y documentan, sin cambio automático de licencia y con créditos preservados. Los repositorios actuales conservan sus licencias; la promoción en el catálogo se evalúa por separado.
 
@@ -300,13 +316,14 @@ Puedes contribuir con código, arte, traducciones, documentación o informes de 
 Nous créons des jeux indépendants et open source pour les esprits curieux. Jouez gratuitement dans votre navigateur, découvrez leur fonctionnement et créez avec nous.
 
 - [**Vazante**](https://gamestudio42.github.io/vazante/) — commandez des escouades, maintenez le ravitaillement et défendez Porto Velário contre la horde. Interface en portugais et en anglais.
+- [**Sítio**](https://gamestudio42.github.io/sitio/) — cultivez le café, organisez le travail des familles et transformez une ferme en village. Interface en cinq langues.
 - [**Urbe Oasis**](https://gamestudio42.github.io/urbe-oasis/) — eau, ombre et caravanes font vivre votre ville en adobe dans le désert.
 - [**Neo Urbe**](https://gamestudio42.github.io/neo-urbe/) — bâtissez un horizon néon et gardez ses réseaux en vie.
 - [**Urbe**](https://gamestudio42.github.io/urbe/) — vous posez les conditions ; la ville décide du reste.
 - [**MineBoss**](https://gamestudio42.github.io/mineboss/) — construisez, explorez et affrontez des boss optionnels en Aventure ou OneBlock.
 - [**Plot 42**](https://gamestudio42.github.io/plot42/) — découvrez Horta, Posto et Mata, ainsi que les liens vers Urbe et Neo Urbe.
 
-Les trois jeux Urbe proposent cinq langues. L'interface de MineBoss est en portugais. Les jeux actuellement présentés sont sous licence MIT ; les nouveaux projets suivent les règles par catégorie, sans migration automatique des dépôts existants.
+Les trois jeux Urbe proposent cinq langues. L'interface de MineBoss est en portugais. Chaque projet conserve sa propre licence. Sítio utilise AGPL-3.0-or-later pour le jeu, Apache-2.0 pour les bibliothèques réutilisables et CC-BY-4.0 pour les illustrations et la documentation ; les nouveaux projets suivent les règles par catégorie, sans migration automatique des dépôts existants.
 
 **Votre projet peut grandir avec la communauté Game Studio 42.** Nous accueillons jeux, moteurs, frameworks, bibliothèques, SDK, outils de développement et agents IA pour les jeux, sans restriction de moteur ou de plateforme. Choisissez la **maintenance partagée** ou proposez une **reprise communautaire**. Les projets avec du code peuvent entrer en incubation ; un responsable doit être confirmé avant leur accueil. AGPL et Apache sont les choix privilégiés ; les projets sous MIT, BSD, GPL ou d’autres licences open source peuvent également être accueillis après évaluation. Les choix et exceptions sont justifiés et documentés, sans changement automatique de licence et en préservant les crédits. Les dépôts actuels conservent leurs licences ; la promotion au catalogue est évaluée séparément.
 
@@ -330,13 +347,14 @@ Contribuez au code, aux illustrations, aux traductions, à la documentation ou a
 Wir entwickeln unabhängige Open-Source-Spiele für neugierige Menschen. Spiele kostenlos im Browser, entdecke den Code und entwickle mit uns.
 
 - [**Vazante**](https://gamestudio42.github.io/vazante/) — befehle deinen Trupps, sichere die Versorgung und verteidige Porto Velário gegen die Horde. Oberfläche auf Portugiesisch und Englisch.
+- [**Sítio**](https://gamestudio42.github.io/sitio/) — baue Kaffee an, organisiere die Arbeit der Familien und lass einen Hof zum Dorf wachsen. Oberfläche in fünf Sprachen.
 - [**Urbe Oasis**](https://gamestudio42.github.io/urbe-oasis/) — Wasser, Schatten und Karawanen versorgen deine Lehmziegelstadt in der Wüste.
 - [**Neo Urbe**](https://gamestudio42.github.io/neo-urbe/) — baue eine Neon-Skyline und halte ihre Netze am Leben.
 - [**Urbe**](https://gamestudio42.github.io/urbe/) — du setzt die Bedingungen; die Stadt entscheidet den Rest.
 - [**MineBoss**](https://gamestudio42.github.io/mineboss/) — baue, erkunde und stelle dich optionalen Bossen in Abenteuer oder OneBlock.
 - [**Plot 42**](https://gamestudio42.github.io/plot42/) — entdecke Horta, Posto und Mata sowie die Links zu Urbe und Neo Urbe.
 
-Die drei Urbe-Spiele bieten fünf Sprachen. Die Oberfläche von MineBoss ist auf Portugiesisch. Die aktuell vorgestellten Spiele verwenden MIT; neue Projekte folgen den Vorgaben je Kategorie, ohne automatische Lizenzänderung bestehender Projekte.
+Die drei Urbe-Spiele bieten fünf Sprachen. Die Oberfläche von MineBoss ist auf Portugiesisch. Jedes Projekt behält seine eigene Lizenz. Sítio verwendet AGPL-3.0-or-later für das Spiel, Apache-2.0 für wiederverwendbare Bibliotheken und CC-BY-4.0 für Grafik und Dokumentation; neue Projekte folgen den Vorgaben je Kategorie, ohne automatische Lizenzänderung bestehender Projekte.
 
 **Dein Projekt kann mit der Game Studio 42 Community wachsen.** Wir begrüßen Spiele, Engines, Frameworks, Bibliotheken, SDKs, Entwicklungswerkzeuge und KI-Agenten für Spiele, unabhängig von Engine oder Plattform. Möglich sind **gemeinsame Wartung** und **Übernahme durch die Community**. Frühe Projekte mit vorhandenem Code können in die Inkubation aufgenommen werden; vorher muss eine verantwortliche Person bestätigt sein. AGPL und Apache sind die bevorzugten Standards; Projekte unter MIT, BSD, GPL oder anderen Open-Source-Lizenzen können ebenfalls nach Prüfung aufgenommen werden. Auswahl und Ausnahmen werden begründet und dokumentiert, ohne automatische Lizenzänderung und mit erhaltenen Urheberangaben. Bestehende Repository-Lizenzen bleiben erhalten; die Aufnahme in den Spielekatalog wird gesondert geprüft.
 
