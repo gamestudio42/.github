@@ -6,11 +6,12 @@
 
 <h1 align="center">Game Studio 42</h1>
 
-<p align="center"><strong>Small studio. Boundless worlds.</strong></p>
+<p align="center"><strong>Open-source games. Play anywhere. Fork everything.</strong></p>
 
 <p align="center">
   Cities that come alive. Worlds you make your own.<br>
-  Independent browser games for curious players and people who love to build.
+  Independent open-source games for curious players and people who love to build —<br>
+  play many in one click in the browser, install desktop builds from the Snap Store where available, with mobile on the roadmap.
 </p>
 
 <p align="center">
@@ -20,7 +21,7 @@
 </p>
 
 <p align="center">
-  <strong>Free to play · In your browser · Open source</strong><br>
+  <strong>Free to play · Browser &amp; desktop · Open source</strong><br>
   <sub><a href="https://gamestudio42.github.io/pt/">Português</a> · <a href="https://gamestudio42.github.io/es/">Español</a> · <a href="https://gamestudio42.github.io/fr/">Français</a> · <a href="https://gamestudio42.github.io/de/">Deutsch</a></sub>
 </p>
 
@@ -251,7 +252,7 @@ Star the projects you enjoy, follow their commits and come back to see what grow
 <details>
 <summary><strong>Português — Um estúdio. Mundos sem fim.</strong></summary>
 
-Criamos jogos independentes e de código aberto para mentes curiosas. Jogue de graça no navegador, descubra como tudo funciona e crie com a gente.
+Criamos jogos independentes e de código aberto para mentes curiosas. Jogue de graça no navegador ou no desktop (Snap Store), com celular a caminho, descubra como tudo funciona e crie com a gente.
 
 - [**Vazante**](https://gamestudio42.github.io/vazante/) — comande esquadrões, mantenha as rotas de suprimentos e defenda Porto Velário contra a horda. Interface em português e inglês.
 - [**Sítio**](https://gamestudio42.github.io/sitio/) — cultive café, organize o trabalho das famílias e transforme uma fazenda em vila. Interface em cinco idiomas.
@@ -282,7 +283,7 @@ Contribua com código, arte, traduções, documentação ou relatos de problemas
 <details>
 <summary><strong>Español — Un estudio. Mundos sin fin.</strong></summary>
 
-Creamos juegos independientes y de código abierto para mentes curiosas. Juega gratis en el navegador, descubre cómo funcionan y crea con nosotros.
+Creamos juegos independientes y de código abierto para mentes curiosas. Juega gratis en el navegador o en el escritorio (Snap Store), con móvil en camino, descubre cómo funcionan y crea con nosotros.
 
 - [**Vazante**](https://gamestudio42.github.io/vazante/) — dirige escuadrones, mantén las rutas de suministro y defiende Porto Velário de la horda. Interfaz en portugués e inglés.
 - [**Sítio**](https://gamestudio42.github.io/sitio/) — cultiva café, organiza el trabajo de las familias y transforma una granja en pueblo. Interfaz en cinco idiomas.
@@ -313,7 +314,7 @@ Puedes contribuir con código, arte, traducciones, documentación o informes de 
 <details>
 <summary><strong>Français — Un studio. Des mondes sans fin.</strong></summary>
 
-Nous créons des jeux indépendants et open source pour les esprits curieux. Jouez gratuitement dans votre navigateur, découvrez leur fonctionnement et créez avec nous.
+Nous créons des jeux indépendants et open source pour les esprits curieux. Jouez gratuitement dans votre navigateur ou sur ordinateur (Snap Store), le mobile arrive bientôt, découvrez leur fonctionnement et créez avec nous.
 
 - [**Vazante**](https://gamestudio42.github.io/vazante/) — commandez des escouades, maintenez le ravitaillement et défendez Porto Velário contre la horde. Interface en portugais et en anglais.
 - [**Sítio**](https://gamestudio42.github.io/sitio/) — cultivez le café, organisez le travail des familles et transformez une ferme en village. Interface en cinq langues.
@@ -344,7 +345,7 @@ Contribuez au code, aux illustrations, aux traductions, à la documentation ou a
 <details>
 <summary><strong>Deutsch — Ein Studio. Grenzenlose Welten.</strong></summary>
 
-Wir entwickeln unabhängige Open-Source-Spiele für neugierige Menschen. Spiele kostenlos im Browser, entdecke den Code und entwickle mit uns.
+Wir entwickeln unabhängige Open-Source-Spiele für neugierige Menschen. Spiele kostenlos im Browser oder auf dem Desktop (Snap Store), Mobile folgt, entdecke den Code und entwickle mit uns.
 
 - [**Vazante**](https://gamestudio42.github.io/vazante/) — befehle deinen Trupps, sichere die Versorgung und verteidige Porto Velário gegen die Horde. Oberfläche auf Portugiesisch und Englisch.
 - [**Sítio**](https://gamestudio42.github.io/sitio/) — baue Kaffee an, organisiere die Arbeit der Familien und lass einen Hof zum Dorf wachsen. Oberfläche in fünf Sprachen.
