@@ -36,7 +36,7 @@
 
 ## Find your next world
 
-Grow a coffee farm into a village, hold a city against the horde, scavenge a street before night, fly a ship that keeps its speed, plan a new district, keep the neon alive, follow a wandering spring or build an adventure one block at a time. Pick a world and start playing.
+Grow a coffee farm into a village, hold a city against the horde, march one column across a country, scavenge a street before night, fly a ship that keeps its speed, plan a new district, keep the neon alive, follow a wandering spring or build an adventure one block at a time. Pick a world and start playing.
 
 ### Vazante — Hold the city. Take the rifle.
 
@@ -159,6 +159,20 @@ English, Portuguese, Spanish, French and German interface. Game code: AGPL-3.0-o
 </table>
 
 <sub>Real gameplay from the projects. Sítio, Urbe, Neo Urbe, Urbe Oasis and Vazante support English, Portuguese, Spanish, French and German. MineBoss currently has a Portuguese player interface.</sub>
+
+### Prestes — One column against a whole country.
+
+Build your sections from period rosters, deploy them on hand-drawn battlefields and fight for the objectives under fog of war. The campaign follows the Coluna Prestes from 1922 to 1927.
+
+<a href="https://gamestudio42.github.io/prestes/">
+  <img src="https://raw.githubusercontent.com/gamestudio42/prestes/main/docs/screenshots/battle.jpg" width="920" alt="Prestes gameplay: the battle HUD over a farm by a river, with sections, orders and the map">
+</a>
+
+**Historical real-time tactics · Deploy, then fight · Map editor**
+
+[**Play Prestes →**](https://gamestudio42.github.io/prestes/) · [Source code](https://github.com/gamestudio42/prestes)
+
+Portuguese and English interface. Eight campaign chapters, opened in order, and skirmish.
 
 <table>
 <tr>
@@ -370,13 +384,13 @@ The lobby links out to the standalone Urbe, Neo Urbe, Urbe Oasis, Vazante and S�
 
 ## Made to play. Open to possibility.
 
-We build games around systems you can explore: a coffee farm becoming a village, a growing city, a fragile water supply, a world made of blocks, a city held together by squads and supply lines, a neighbourhood that hears every shot, a colony that scavenges by day, a ship that only slows when a thruster fires. The same curiosity that makes them fun to play makes them interesting to take apart.
+We build games around systems you can explore: a coffee farm becoming a village, a growing city, a fragile water supply, a world made of blocks, a city held together by squads and supply lines, a neighbourhood that hears every shot, a colony that scavenges by day, a ship that only slows when a thruster fires, a column that pays for every order with a march. The same curiosity that makes them fun to play makes them interesting to take apart.
 
 - **Start with a browser tab.** The featured games are free to play, with no installation required.
 - **Look inside.** Each featured game has public source code under its own license; check its repository for code, asset and dependency terms. Read how a mechanic works, change the rules or build your own variation.
 - **Build in the open.** Follow commits, report what you find and help shape the next change.
 
-Most featured games use **TypeScript**. **PixiJS** draws Sítio and the Urbe games. **Three.js** draws MineBoss, Vazante, Afterfall, Void Frontier, Void Dominion and Coelhinho Craft Pintar. Dead Sector uses **Phaser**. Noosphere is **React** and a canvas. ASCII Racing, Game Studio Kids and Game Studio Teen are plain **JavaScript**, with no build step. Sítio and Vazante combine a React interface with a deterministic simulation in a **Web Worker**. The Urbe city simulations run in a **Web Worker**, keeping simulation work separate from the interface. Afterfall, Void Frontier and Void Dominion keep a deterministic TypeScript simulation apart from the Three.js view and the React interface. Dead Sector does the same with Phaser and an HTML interface.
+Most featured games use **TypeScript**. **PixiJS** draws Sítio and the Urbe games. **Three.js** draws MineBoss, Vazante, Afterfall, Void Frontier, Void Dominion, Coelhinho Craft Pintar and Prestes. Dead Sector uses **Phaser**. Noosphere is **React** and a canvas. ASCII Racing, Game Studio Kids and Game Studio Teen are plain **JavaScript**, with no build step. Sítio, Vazante and Prestes combine a React interface with a deterministic simulation in a **Web Worker**. The Urbe city simulations run in a **Web Worker**, keeping simulation work separate from the interface. Afterfall, Void Frontier and Void Dominion keep a deterministic TypeScript simulation apart from the Three.js view and the React interface. Dead Sector does the same with Phaser and an HTML interface.
 
 ## Your project can grow with the community
 
@@ -449,6 +463,7 @@ Star the projects you enjoy, follow their commits and come back to see what grow
 Criamos jogos independentes e de código aberto para mentes curiosas. Jogue de graça no navegador ou no desktop (Snap Store), com celular a caminho, descubra como tudo funciona e crie com a gente.
 
 - [**Vazante**](https://gamestudio42.github.io/vazante/) — comande esquadrões, mantenha as rotas de suprimentos e defenda Porto Velário contra a horda. Sete missões de campanha e sobrevivência no mapa da cidade. Interface em cinco idiomas.
+- [**Prestes**](https://gamestudio42.github.io/prestes/) — uma coluna contra um país inteiro. Monte seções de época, posicione-as no campo e lute pelos objetivos sob névoa de guerra. Campanha em oito capítulos e escaramuça. Interface em português e inglês.
 - [**Sítio**](https://gamestudio42.github.io/sitio/) — cultive café, organize o trabalho das famílias e transforme uma fazenda em vila. Interface em cinco idiomas.
 - [**Urbe Oasis**](https://gamestudio42.github.io/urbe-oasis/) — água, sombra e caravanas sustentam sua cidade de adobe no deserto.
 - [**Neo Urbe**](https://gamestudio42.github.io/neo-urbe/) — erga um horizonte de neon e mantenha as redes da cidade vivas.
@@ -465,7 +480,7 @@ Criamos jogos independentes e de código aberto para mentes curiosas. Jogue de g
 - [**Game Studio Kids**](https://gamestudio42.github.io/gamestudio-kids/) — estúdio para crianças a partir de cinco anos desenharem e jogarem o próprio jogo. Português.
 - [**Game Studio Teen**](https://gamestudio42.github.io/gamestudio-teens/) — estúdio para leitores de cerca de dez a quinze anos escreverem regras, testarem e exportarem um HTML. Português.
 
-Sítio, os três jogos Urbe, Vazante, ASCII Racing e Horta, Posto e Mata oferecem cinco idiomas. MineBoss, Dead Sector e Coelhinho Craft Pintar têm interface em português. Noosphere está em inglês. Afterfall abre em português e também oferece inglês no menu. Void Frontier e Void Dominion seguem o navegador entre português e inglês. Cada projeto mantém sua própria licença. Sítio usa AGPL-3.0-or-later para o jogo, Apache-2.0 para bibliotecas reutilizáveis e CC-BY-4.0 para arte e documentação; novos projetos seguem a política por categoria, sem migração automática dos existentes.
+Sítio, os três jogos Urbe, Vazante, ASCII Racing e Horta, Posto e Mata oferecem cinco idiomas. MineBoss, Dead Sector e Coelhinho Craft Pintar têm interface em português. Noosphere está em inglês. Afterfall abre em português e também oferece inglês no menu. Void Frontier e Void Dominion seguem o navegador entre português e inglês. Prestes tem interface em português e inglês. Cada projeto mantém sua própria licença. Sítio usa AGPL-3.0-or-later para o jogo, Apache-2.0 para bibliotecas reutilizáveis e CC-BY-4.0 para arte e documentação; novos projetos seguem a política por categoria, sem migração automática dos existentes.
 
 **Seu projeto pode crescer com a comunidade Game Studio 42.** Recebemos jogos, engines, frameworks, bibliotecas, SDKs, ferramentas de desenvolvimento e agentes de IA para games, em qualquer engine ou plataforma. Participe pela **manutenção compartilhada** ou proponha **adoção comunitária**. Projetos iniciais com código podem entrar em incubação; é necessário confirmar um mantenedor antes do acolhimento. AGPL e Apache são padrões preferenciais; projetos MIT, BSD, GPL ou sob outras licenças de código aberto também podem ser acolhidos mediante avaliação. A escolha e as exceções são justificadas e registradas, sem relicenciamento automático e com créditos preservados. Os repositórios atuais mantêm suas licenças; divulgação no catálogo é avaliada separadamente.
 
@@ -489,6 +504,7 @@ Contribua com código, arte, traduções, documentação ou relatos de problemas
 Creamos juegos independientes y de código abierto para mentes curiosas. Juega gratis en el navegador o en el escritorio (Snap Store), con móvil en camino, descubre cómo funcionan y crea con nosotros.
 
 - [**Vazante**](https://gamestudio42.github.io/vazante/) — dirige escuadrones, mantén las rutas de suministro y defiende Porto Velário de la horda. Siete misiones de campaña y supervivencia en el mapa de la ciudad. Interfaz en cinco idiomas.
+- [**Prestes**](https://gamestudio42.github.io/prestes/) — una columna contra todo un país. Forma secciones de la época, despliégalas y lucha por los objetivos bajo niebla de guerra. Campaña de ocho capítulos y escaramuza. Interfaz en portugués e inglés.
 - [**Sítio**](https://gamestudio42.github.io/sitio/) — cultiva café, organiza el trabajo de las familias y transforma una granja en pueblo. Interfaz en cinco idiomas.
 - [**Urbe Oasis**](https://gamestudio42.github.io/urbe-oasis/) — agua, sombra y caravanas sostienen tu ciudad de adobe en el desierto.
 - [**Neo Urbe**](https://gamestudio42.github.io/neo-urbe/) — levanta un horizonte de neón y mantén vivas sus redes.
@@ -505,7 +521,7 @@ Creamos juegos independientes y de código abierto para mentes curiosas. Juega g
 - [**Game Studio Kids**](https://gamestudio42.github.io/gamestudio-kids/) — estudio para que niños desde los cinco años dibujen y jueguen su propio juego. Portugués.
 - [**Game Studio Teen**](https://gamestudio42.github.io/gamestudio-teens/) — estudio para lectores de unos diez a quince años: reglas, pruebas y exportación a un HTML. Portugués.
 
-Sítio, los tres juegos Urbe, Vazante, ASCII Racing y Horta, Posto y Mata ofrecen cinco idiomas. MineBoss, Dead Sector y Coelhinho Craft Pintar tienen la interfaz en portugués. Noosphere está en inglés. Afterfall abre en portugués y también ofrece inglés en el menú. Void Frontier y Void Dominion siguen el navegador entre portugués e inglés. Cada proyecto conserva su propia licencia. Sítio usa AGPL-3.0-or-later para el juego, Apache-2.0 para bibliotecas reutilizables y CC-BY-4.0 para arte y documentación; los nuevos proyectos siguen la política por categoría, sin migración automática de los existentes.
+Sítio, los tres juegos Urbe, Vazante, ASCII Racing y Horta, Posto y Mata ofrecen cinco idiomas. MineBoss, Dead Sector y Coelhinho Craft Pintar tienen la interfaz en portugués. Noosphere está en inglés. Afterfall abre en portugués y también ofrece inglés en el menú. Void Frontier y Void Dominion siguen el navegador entre portugués e inglés. Prestes tiene la interfaz en portugués e inglés. Cada proyecto conserva su propia licencia. Sítio usa AGPL-3.0-or-later para el juego, Apache-2.0 para bibliotecas reutilizables y CC-BY-4.0 para arte y documentación; los nuevos proyectos siguen la política por categoría, sin migración automática de los existentes.
 
 **Tu proyecto puede crecer con la comunidad Game Studio 42.** Recibimos juegos, motores, frameworks, bibliotecas, SDKs, herramientas de desarrollo y agentes de IA para videojuegos, sin limitar motor ni plataforma. Ofrecemos **mantenimiento compartido** y **adopción comunitaria**. Los proyectos iniciales con código pueden entrar en incubación; se necesita un responsable confirmado antes del ingreso. AGPL y Apache son los estándares preferidos; también evaluamos proyectos MIT, BSD, GPL u otras licencias de código abierto. La elección y las excepciones se justifican y documentan, sin cambio automático de licencia y con créditos preservados. Los repositorios actuales conservan sus licencias; la promoción en el catálogo se evalúa por separado.
 
@@ -529,6 +545,7 @@ Puedes contribuir con código, arte, traducciones, documentación o informes de 
 Nous créons des jeux indépendants et open source pour les esprits curieux. Jouez gratuitement dans votre navigateur ou sur ordinateur (Snap Store), le mobile arrive bientôt, découvrez leur fonctionnement et créez avec nous.
 
 - [**Vazante**](https://gamestudio42.github.io/vazante/) — commandez des escouades, maintenez le ravitaillement et défendez Porto Velário contre la horde. Sept missions de campagne et un mode survie sur la carte de la ville. Interface en cinq langues.
+- [**Prestes**](https://gamestudio42.github.io/prestes/) — une colonne contre tout un pays. Formez des sections d'époque, déployez-les et prenez les objectifs dans le brouillard de guerre. Campagne en huit chapitres et escarmouche. Interface en portugais et en anglais.
 - [**Sítio**](https://gamestudio42.github.io/sitio/) — cultivez le café, organisez le travail des familles et transformez une ferme en village. Interface en cinq langues.
 - [**Urbe Oasis**](https://gamestudio42.github.io/urbe-oasis/) — eau, ombre et caravanes font vivre votre ville en adobe dans le désert.
 - [**Neo Urbe**](https://gamestudio42.github.io/neo-urbe/) — bâtissez un horizon néon et gardez ses réseaux en vie.
@@ -545,7 +562,7 @@ Nous créons des jeux indépendants et open source pour les esprits curieux. Jou
 - [**Game Studio Kids**](https://gamestudio42.github.io/gamestudio-kids/) — atelier pour les enfants à partir de cinq ans : dessiner et jouer à son propre jeu. Portugais.
 - [**Game Studio Teen**](https://gamestudio42.github.io/gamestudio-teens/) — atelier pour les lecteurs d'environ dix à quinze ans : règles, tests et export HTML. Portugais.
 
-Sítio, les trois jeux Urbe, Vazante, ASCII Racing ainsi que Horta, Posto et Mata proposent cinq langues. MineBoss, Dead Sector et Coelhinho Craft Pintar ont une interface en portugais. Noosphere est en anglais. Afterfall s'ouvre en portugais et propose aussi l'anglais dans le menu. Void Frontier et Void Dominion suivent le navigateur entre portugais et anglais. Chaque projet conserve sa propre licence. Sítio utilise AGPL-3.0-or-later pour le jeu, Apache-2.0 pour les bibliothèques réutilisables et CC-BY-4.0 pour les illustrations et la documentation ; les nouveaux projets suivent les règles par catégorie, sans migration automatique des dépôts existants.
+Sítio, les trois jeux Urbe, Vazante, ASCII Racing ainsi que Horta, Posto et Mata proposent cinq langues. MineBoss, Dead Sector et Coelhinho Craft Pintar ont une interface en portugais. Noosphere est en anglais. Afterfall s'ouvre en portugais et propose aussi l'anglais dans le menu. Void Frontier et Void Dominion suivent le navigateur entre portugais et anglais. Prestes a une interface en portugais et en anglais. Chaque projet conserve sa propre licence. Sítio utilise AGPL-3.0-or-later pour le jeu, Apache-2.0 pour les bibliothèques réutilisables et CC-BY-4.0 pour les illustrations et la documentation ; les nouveaux projets suivent les règles par catégorie, sans migration automatique des dépôts existants.
 
 **Votre projet peut grandir avec la communauté Game Studio 42.** Nous accueillons jeux, moteurs, frameworks, bibliothèques, SDK, outils de développement et agents IA pour les jeux, sans restriction de moteur ou de plateforme. Choisissez la **maintenance partagée** ou proposez une **reprise communautaire**. Les projets avec du code peuvent entrer en incubation ; un responsable doit être confirmé avant leur accueil. AGPL et Apache sont les choix privilégiés ; les projets sous MIT, BSD, GPL ou d’autres licences open source peuvent également être accueillis après évaluation. Les choix et exceptions sont justifiés et documentés, sans changement automatique de licence et en préservant les crédits. Les dépôts actuels conservent leurs licences ; la promotion au catalogue est évaluée séparément.
 
@@ -569,6 +586,7 @@ Contribuez au code, aux illustrations, aux traductions, à la documentation ou a
 Wir entwickeln unabhängige Open-Source-Spiele für neugierige Menschen. Spiele kostenlos im Browser oder auf dem Desktop (Snap Store), Mobile folgt, entdecke den Code und entwickle mit uns.
 
 - [**Vazante**](https://gamestudio42.github.io/vazante/) — befehle deinen Trupps, sichere die Versorgung und verteidige Porto Velário gegen die Horde. Sieben Kampagnenmissionen und ein Überlebensmodus auf der Stadtkarte. Oberfläche in fünf Sprachen.
+- [**Prestes**](https://gamestudio42.github.io/prestes/) — eine Kolonne gegen ein ganzes Land. Stelle Abteilungen der Zeit auf, setze sie ab und kämpfe um die Ziele im Kriegsnebel. Kampagne in acht Kapiteln und Scharmützel. Oberfläche auf Portugiesisch und Englisch.
 - [**Sítio**](https://gamestudio42.github.io/sitio/) — baue Kaffee an, organisiere die Arbeit der Familien und lass einen Hof zum Dorf wachsen. Oberfläche in fünf Sprachen.
 - [**Urbe Oasis**](https://gamestudio42.github.io/urbe-oasis/) — Wasser, Schatten und Karawanen versorgen deine Lehmziegelstadt in der Wüste.
 - [**Neo Urbe**](https://gamestudio42.github.io/neo-urbe/) — baue eine Neon-Skyline und halte ihre Netze am Leben.
@@ -585,7 +603,7 @@ Wir entwickeln unabhängige Open-Source-Spiele für neugierige Menschen. Spiele 
 - [**Game Studio Kids**](https://gamestudio42.github.io/gamestudio-kids/) — Werkstatt für Kinder ab fünf Jahren: eigenes Spiel zeichnen und spielen. Portugiesisch.
 - [**Game Studio Teen**](https://gamestudio42.github.io/gamestudio-teens/) — Werkstatt für Leserinnen und Leser von etwa zehn bis fünfzehn Jahren: Regeln, Test und HTML-Export. Portugiesisch.
 
-Sítio, die drei Urbe-Spiele, Vazante, ASCII Racing sowie Horta, Posto und Mata bieten fünf Sprachen. MineBoss, Dead Sector und Coelhinho Craft Pintar haben eine portugiesische Oberfläche. Noosphere ist auf Englisch. Afterfall startet auf Portugiesisch und bietet Englisch im Menü. Void Frontier und Void Dominion folgen dem Browser zwischen Portugiesisch und Englisch. Jedes Projekt behält seine eigene Lizenz. Sítio verwendet AGPL-3.0-or-later für das Spiel, Apache-2.0 für wiederverwendbare Bibliotheken und CC-BY-4.0 für Grafik und Dokumentation; neue Projekte folgen den Vorgaben je Kategorie, ohne automatische Lizenzänderung bestehender Projekte.
+Sítio, die drei Urbe-Spiele, Vazante, ASCII Racing sowie Horta, Posto und Mata bieten fünf Sprachen. MineBoss, Dead Sector und Coelhinho Craft Pintar haben eine portugiesische Oberfläche. Noosphere ist auf Englisch. Afterfall startet auf Portugiesisch und bietet Englisch im Menü. Void Frontier und Void Dominion folgen dem Browser zwischen Portugiesisch und Englisch. Prestes hat eine Oberfläche auf Portugiesisch und Englisch. Jedes Projekt behält seine eigene Lizenz. Sítio verwendet AGPL-3.0-or-later für das Spiel, Apache-2.0 für wiederverwendbare Bibliotheken und CC-BY-4.0 für Grafik und Dokumentation; neue Projekte folgen den Vorgaben je Kategorie, ohne automatische Lizenzänderung bestehender Projekte.
 
 **Dein Projekt kann mit der Game Studio 42 Community wachsen.** Wir begrüßen Spiele, Engines, Frameworks, Bibliotheken, SDKs, Entwicklungswerkzeuge und KI-Agenten für Spiele, unabhängig von Engine oder Plattform. Möglich sind **gemeinsame Wartung** und **Übernahme durch die Community**. Frühe Projekte mit vorhandenem Code können in die Inkubation aufgenommen werden; vorher muss eine verantwortliche Person bestätigt sein. AGPL und Apache sind die bevorzugten Standards; Projekte unter MIT, BSD, GPL oder anderen Open-Source-Lizenzen können ebenfalls nach Prüfung aufgenommen werden. Auswahl und Ausnahmen werden begründet und dokumentiert, ohne automatische Lizenzänderung und mit erhaltenen Urheberangaben. Bestehende Repository-Lizenzen bleiben erhalten; die Aufnahme in den Spielekatalog wird gesondert geprüft.
 
